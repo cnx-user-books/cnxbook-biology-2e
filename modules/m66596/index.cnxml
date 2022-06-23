@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66596</md:content-id>
   <md:title>The Plant Body</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe the shoot organ system and the root organ system</item>
 <item>Distinguish between meristematic tissue and permanent tissue</item>
@@ -36,7 +36,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_30_01_02f.jpg" width="370"/>
 </media>
 
-<caption>This light micrograph shows a cross section of a squash (<emphasis effect="italics">Curcurbita maxima</emphasis>) root. Each teardrop-shaped vascular bundle consists of large xylem vessels toward the inside and smaller phloem cells toward the outside.  Xylem cells, which transport water and nutrients from the roots to the rest of the plant, are dead at functional maturity. Phloem cells, which transport sugars and other organic compounds from photosynthetic tissue to the rest of the plant, are living. The vascular bundles are encased in ground tissue and surrounded by dermal tissue. (credit: modification of work by "(biophotos)"/Flickr; scale-bar data from Matt Russell)</caption></figure></section>
+<caption>This light micrograph shows a cross section of a squash (<emphasis effect="italics">Curcurbita maxima</emphasis>) stem. Each teardrop-shaped vascular bundle consists of large xylem vessels toward the inside and smaller phloem cells toward the outside.  Xylem cells, which transport water and nutrients from the roots to the rest of the plant, are dead at functional maturity. Phloem cells, which transport sugars and other organic compounds from photosynthetic tissue to the rest of the plant, are living. The vascular bundles are encased in ground tissue and surrounded by dermal tissue. (credit: modification of work by "(biophotos)"/Flickr; scale-bar data from Matt Russell)</caption></figure></section>
 <section id="fs-idm81698032" class="summary">
 <title>Section Summary</title><para id="fs-idm90116288">A vascular plant consists of two organ systems: the shoot system and the root system. The shoot system includes the aboveground vegetative portions (stems and leaves) and reproductive parts (flowers and fruits). The root system supports the plant and is usually underground. A plant is composed of two main types of tissue: meristematic tissue and permanent tissue. Meristematic tissue consists of actively dividing cells found in root and shoot tips. As growth occurs, meristematic tissue differentiates into permanent tissue, which is categorized as either simple or complex. Simple tissues are made up of similar cell types; examples include dermal tissue and ground tissue. Dermal tissue provides the outer covering of the plant. Ground tissue is responsible for photosynthesis; it also supports vascular tissue and may store water and sugars. Complex tissues are made up of different cell types. Vascular tissue, for example, is made up of xylem and phloem cells.</para>
 </section>
@@ -93,7 +93,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idm52295664">
 <term>apical meristem</term> <meaning id="fs-idm119306048">meristematic tissue located at the tips of stems and roots; enables a plant to extend in length</meaning>

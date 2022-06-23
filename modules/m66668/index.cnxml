@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66668</md:content-id>
   <md:title>Reproduction Methods</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe advantages and disadvantages of asexual and sexual reproduction</item>
 <item>Discuss asexual reproduction methods</item>
@@ -65,7 +65,7 @@
 <title>Sex Determination</title>
 <para id="fs-idp7715840">Mammalian sex determination is determined genetically by the presence of X and Y chromosomes. Individuals homozygous for X (XX) are female and heterozygous individuals (XY) are male. The presence of a Y chromosome causes the development of male characteristics and its absence results in female characteristics. The XY system is also found in some insects and plants.</para>
 <para id="fs-idm172007152">Avian sex determination is dependent on the presence of Z and W chromosomes. Homozygous for Z (ZZ) results in a male and heterozygous (ZW) results in a female. The W appears to be essential in determining the sex of the individual, similar to the Y chromosome in mammals. Some fish, crustaceans, insects (such as butterflies and moths), and reptiles use this system.</para>
-<para id="fs-idm72903392">The sex of some species is not determined by genetics but by some aspect of the environment. Sex determination in some crocodiles and turtles, for example, is often dependent on the temperature during critical periods of egg development. This is referred to as environmental sex determination, or more specifically as temperature-dependent sex determination. In many turtles, cooler temperatures during egg incubation produce males and warm temperatures produce females. In some crocodiles, moderate temperatures produce males and both warm and cool temperatures produce females. In some species, sex is both genetic- and temperature-dependent.  Note that in this discussion and throughout the chapter, we are speaking only about sex, not gender, when referring to males and females. (Gender is a more complex construct; beyond having social aspects, it is not universal in the animal kingdom.)</para>
+<para id="fs-idm72903392">The sex of some species is not determined by genetics but by some aspect of the environment. Sex determination in some crocodiles and turtles, for example, is often dependent on the temperature during critical periods of egg development. This is referred to as environmental sex determination, or more specifically as temperature-dependent sex determination. In many turtles, cooler temperatures during egg incubation produce males and warm temperatures produce females. In some crocodiles, moderate temperatures produce males and both warm and cool temperatures produce females. In some species, sex is both genetic- and temperature-dependent.</para>
 <para id="fs-idm117915392">Individuals of some species change their sex during their lives, alternating between male and female. If the individual is female first, it is termed protogyny or “first female,” if it is male first, its termed protandry or “first male.” Oysters, for example, are born male, grow, and become female and lay eggs; some oyster species change sex multiple times.</para>
 </section>
 <section id="fs-idm90372064" class="summary">
@@ -150,7 +150,7 @@
 <definition id="fs-idm167087216"><term>budding</term> <meaning id="fs-idm121819984">form of asexual reproduction that results from the outgrowth of a part of a cell leading to a separation from the original animal into two individuals</meaning></definition>
 <definition id="fs-idm15105120"><term>fission</term> <meaning id="fs-idm137917728">(also, binary fission) method by which multicellular organisms increase in size or asexual reproduction in which a unicellular organism splits into two separate organisms by mitosis</meaning></definition>
 <definition id="fs-idm94040896"><term>fragmentation</term> <meaning id="fs-idm38292080">cutting or fragmenting of the original animal into parts and the growth of a separate animal from each part</meaning></definition>
-<definition id="fs-idm110145440"><term>hermaphroditism</term> <meaning id="fs-idm124604176">state of having both male and female reproductive parts within the same individual organism; refers only to nonhuman animals</meaning></definition>
+<definition id="fs-idm110145440"><term>hermaphroditism</term> <meaning id="fs-idm124604176">state of having both male and female reproductive parts within the same individual</meaning></definition>
 <definition id="fs-idm171595824"><term>parthenogenesis</term> <meaning id="fs-idp73344832">form of asexual reproduction where an egg develops into a complete individual without being fertilized</meaning></definition>
 <definition id="fs-idm67464448"><term>sexual reproduction</term> <meaning id="fs-idm147939072">mixing of genetic material from two individuals to produce genetically unique offspring</meaning></definition>
 </glossary>

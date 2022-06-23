@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66631</md:content-id>
   <md:title>Endocrine Glands</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe the role of different glands in the endocrine system</item>
 <item>Explain how the different glands work together to maintain homeostasis</item>
@@ -48,7 +48,7 @@
 </media>
 <caption>The parathyroid glands are located on the posterior of the thyroid gland. (credit: modification of work by NCI)</caption>
 </figure>
-<para id="fs-idp130094880">The parathyroid glands produce parathyroid hormone (PTH). PTH increases blood calcium concentrations when calcium ion levels fall below normal. PTH (1) enhances reabsorption of Ca<sup>2+</sup> by the kidneys, (2) stimulates osteoclast activity and inhibits osteoblast activity, and (3) it stimulates synthesis and secretion of calcitriol by the kidneys, which enhances Ca<sup>2+</sup> absorption by the digestive system. PTH is produced by chief cells of the parathyroid. PTH and calcitonin work in opposition to one another to maintain homeostatic Ca<sup>2+</sup> levels in body fluids. Another type of cells, oxyphil cells, exist in the parathyroid but their function is not known.</para></section>
+<para id="fs-idp130094880">The parathyroid glands produce parathyroid hormone (PTH). PTH increases blood calcium concentrations when calcium ion levels fall below normal. PTH (1) enhances reabsorption of Ca<sup>2+</sup> by the kidneys, (2) stimulates osteoclast activity and inhibits osteoblast activity, and (3) it stimulates synthesis and secretion of calcitriol by the kidneys, which enhances Ca<sup>2+</sup> absorption by the digestive system. PTH is produced by chief cells of the parathyroid. PTH and calcitonin work in opposition to one another to maintain homeostatic Ca<sup>2+</sup> levels in body fluids. Another type of cells, oxyphil cells, exist in the parathyroid but their function is not known. These hormones encourage bone growth, muscle mass, and blood cell formation in children and women.</para></section>
 <section id="fs-idp93153184">
 <title>Adrenal Glands</title>
 <para id="fs-idp50181648">The <term>adrenal glands</term> are associated with the kidneys; one gland is located on top of each kidney as illustrated in <link target-id="fig-ch37_05_04" document=""/>. The adrenal glands consist of an outer adrenal cortex and an inner adrenal medulla. These regions secrete different hormones.</para>
@@ -61,7 +61,7 @@
 <para id="fs-idp278246944">The <term>adrenal cortex</term> is made up of layers of epithelial cells and associated capillary networks. These layers form three distinct regions: an outer zona glomerulosa that produces mineralocorticoids, a middle zona fasciculata that produces glucocorticoids, and an inner zona reticularis that produces androgens.</para>
 <para id="fs-idm65768016">The main mineralocorticoid is aldosterone, which regulates the concentration of Na<sup>+</sup> ions in urine, sweat, pancreas, and saliva. Aldosterone release from the adrenal cortex is stimulated by a decrease in blood concentrations of sodium ions, blood volume, or blood pressure, or by an increase in blood potassium levels.</para>
 <para id="fs-idp168438512">The three main glucocorticoids are cortisol, corticosterone, and cortisone. The glucocorticoids stimulate the synthesis of glucose and gluconeogenesis (converting a non-carbohydrate to glucose) by liver cells and they promote the release of fatty acids from adipose tissue. These hormones increase blood glucose levels to maintain levels within a normal range between meals. These hormones are secreted in response to ACTH and levels are regulated by negative feedback.</para>
-<para id="fs-idp232794448">The adrenal cortex also produces small amounts of testosterone precursor, although the role of this additional hormone production is not fully understood. Testosterone is a type of androgen that promotes a suite of characteristics such as the growth and development of the testes and penis, increased skeletal and muscular growth, enlargement of the larynx, increased growth and redistribution of body hair, and increased sexual drive. Testosterone secretion is regulated by both the hypothalamus and the anterior pituitary gland. The hypothalamus sends releasing hormones that stimulate the release of gonadotropins from the anterior pituitary gland. Testosterone produced in small amounts in the adrenal cortex may work with sex hormones released from the gonads. </para>
+<para id="fs-idp232794448">Androgens are sex hormones that promote masculinity. They are produced in small amounts by the adrenal cortex in both males and females. They do not affect sexual characteristics and may supplement sex hormones released from the gonads.</para>
 </section>
 <section id="fs-idm5728032">
 <title>Adrenal Medulla</title>
@@ -85,10 +85,10 @@
 </figure></section>
 <section id="eip-607"><title>Pineal Gland</title>
 <para id="eip-203">
-The pineal gland produces melatonin. The rate of melatonin production is affected by the photoperiod. Collaterals from the visual pathways innervate the pineal gland. During the day photoperiod, little melatonin is produced; however, melatonin production increases during the dark photoperiod (night). In some mammals, melatonin has an inhibitory affect on reproductive functions by decreasing production and maturation of sperm, oocytes, and reproductive organs. Melatonin is an effective antioxidant, protecting the CNS from free radicals such as nitric oxide and hydrogen peroxide. Lastly, melatonin is involved in biological rhythms, particularly circadian rhythms such as the sleep-wake cycle and eating habits.
+The pineal gland produces melatonin. The rate of melatonin production is affected by the photoperiod. Collaterals from the visual pathways innervate the pineal gland. During the day photoperiod, little melatonin is produced; however, melatonin production increases during the dark photoperiod (night). In some mammals, melatonin has an inhibitory affect on reproductive functions by decreasing production and maturation of sperm, oocytes, and reproductive organs. Melatonin is an effective antioxidant, protecting the CNS from free radicals such as nitric oxide and hydrogen peroxide. Lastly, melatonin is involved in biological rhythms, particularly circadian rhythms such as the sleep-wake cycle and eating habits. 
 </para></section><section id="fs-idm25526848">
 <title>Gonads</title>
-<para id="fs-idm67197776">The gonads—the testes and ovaries—produce steroid hormones. The testes produce androgens, testosterone being the most prominent, which allow for the growth and development of the testes and penis, increased skeletal and muscular growth, enlargement of the larynx, increased growth and redistribution of body hair, and the production of sperm cells. The ovaries produce estradiol and progesterone, which cause secondary sex characteristics and prepare the body for childbirth.</para><table id="tab-ch37_05_01" summary="" class="top-titled"><tgroup cols="3" align="left">
+<para id="fs-idm67197776">The gonads—the male testes and female ovaries—produce steroid hormones. The testes produce androgens, testosterone being the most prominent, which allow for the development of secondary sex characteristics and the production of sperm cells. The ovaries produce estradiol and progesterone, which cause secondary sex characteristics and prepare the body for childbirth.</para><table id="tab-ch37_05_01" summary=""><tgroup cols="3" align="left">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
@@ -105,7 +105,7 @@ The pineal gland produces melatonin. The rate of melatonin production is affecte
 <tbody>
 <row><entry morerows="1">Hypothalamus</entry>
 <entry>releasing and inhibiting hormones</entry>
-<entry>regulate hormone release from pituitary gland; produce oxytocin; produce uterine contractions and milk secretion in breast tissue</entry>
+<entry>regulate hormone release from pituitary gland; produce oxytocin; produce uterine contractions and milk secretion in females</entry>
 </row>
 <row><entry>antidiuretic hormone (ADH)</entry>
 <entry>water reabsorption from kidneys; vasoconstriction to increase blood pressure</entry>
@@ -155,7 +155,7 @@ The pineal gland produces melatonin. The rate of melatonin production is affecte
 <entry>reduces blood Ca<sup>2+</sup> levels</entry>
 </row>
 <row>
-<entry>Parathyroid</entry>
+<entry>Parathyroid</entry> 
 <entry>parathyroid hormone (PTH)</entry>
 <entry>increases blood Ca<sup>2+ </sup>levels</entry>
 </row>
@@ -163,7 +163,7 @@ The pineal gland produces melatonin. The rate of melatonin production is affecte
 <entry morerows="1">Adrenal (Cortex)</entry>
 <entry>aldosterone</entry>
 <entry>increases blood Na<sup>+</sup> levels; increases K<sup>+</sup> secretion</entry>
-</row>
+</row> 
 <row>
 <entry>cortisol, corticosterone, cortisone</entry>
 <entry>increase blood glucose levels; anti-inflammatory effects</entry>
@@ -171,15 +171,15 @@ The pineal gland produces melatonin. The rate of melatonin production is affecte
 <row>
 <entry>Adrenal (Medulla)</entry>
 <entry>epinephrine, norepinephrine</entry>
-<entry>stimulate fight-or-flight response; increase blood glucose levels; increase metabolic activities</entry>
+<entry>stimulate fight-or-flight response; increase blood gluclose levels; increase metabolic activities</entry>
 </row>
 <row>
 <entry morerows="1">Pancreas</entry>
 <entry>insulin</entry>
 <entry>reduces blood glucose levels</entry>
-</row>
+</row> 
 <row>
-<entry>glucagon</entry>
+<entry>glucagon</entry> 
 <entry>increases blood glucose levels</entry>
 </row>
 <row><entry>Pineal gland</entry>
@@ -187,10 +187,10 @@ The pineal gland produces melatonin. The rate of melatonin production is affecte
 <entry>regulates some biological rhythms and protects CNS from free radicals</entry></row>
 <row><entry>Testes</entry>
 <entry>androgens</entry>
-<entry>regulate, promote, increase or maintain sperm production; a suite of characteristics including growth and development of the testes and penis, increased skeletal and muscular growth, enlargement of the larynx, and increased growth and redistribution of body hair</entry></row>
+<entry>regulate, promote, increase or maintain sperm production; male secondary sexual characteristics</entry></row>
 <row><entry morerows="1">Ovaries</entry>
 <entry>estrogen</entry>
-<entry>promotes uterine lining growth; a suite of characteristics including increased development of breast tissue, redistribution of fat towards hips, legs, and breast, and the maturation of the uterus and vagina</entry></row>
+<entry>promotes uterine lining growth; female secondary sexual characteristics</entry></row>
 <row><entry>progestins</entry>
 <entry>promote and maintain uterine lining growth</entry>
 </row>

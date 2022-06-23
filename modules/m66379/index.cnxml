@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66379</md:content-id>
   <md:title>Propagation of the Signal</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Explain how the binding of a ligand initiates signal transduction throughout a cell</item>
 <item>Recognize the role of phosphorylation in the transmission of intracellular signals</item>
@@ -143,7 +143,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1407411"><term>cyclic AMP (cAMP)</term> <meaning id="fs-id2019082"> second messenger that is derived from ATP</meaning></definition>
 <definition id="fs-id1469671"><term>cyclic AMP-dependent kinase</term> <meaning id="fs-id1812585">(also, protein kinase A, or PKA) kinase that is activated by binding to cAMP</meaning></definition>

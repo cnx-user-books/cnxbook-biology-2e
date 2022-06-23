@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66454</md:content-id>
   <md:title>The Cytoskeleton</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe the cytoskeleton</item>
 <item>Compare the roles of microfilaments, intermediate filaments, and microtubules</item>
@@ -65,7 +65,7 @@
 <caption>This transmission electron micrograph of two flagella shows the microtubules' 9 + 2 array: nine microtubule doublets surround a single microtubule doublet. (credit: modification of work by Dartmouth Electron Microscope Facility, Dartmouth College; scale-bar data from Matt Russell)</caption>
 </figure>
 <para id="fs-id1953479">You have now completed a broad survey of prokaryotic and eukaryotic cell components. For a summary of cellular components in prokaryotic and eukaryotic cells, see <link target-id="tab-ch04-05-01" document=""/>.</para>
-<table id="tab-ch04-05-01" class="top-titled" summary="This table compares the features of prokaryotic and eukaryotic cells, highlighting their different levels of functioning."><tgroup cols="1">
+<table id="tab-ch04-05-01" class=" " summary="This table compares the features of prokaryotic and eukaryotic cells, highlighting their different levels of functioning."><tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
@@ -284,7 +284,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2472145"><term>cilium</term> <meaning id="fs-id1704493">(plural = cilia) short, hair-like structure that extends from the plasma membrane in large numbers and functions to move an entire cell or move substances along the cell's outer surface</meaning></definition>
 <definition id="fs-id1526841"><term>cytoskeleton</term> <meaning id="fs-id1774415">protein fiber network that collectively maintains the cell's shape, secures some organelles in specific positions, allows cytoplasm and vesicles to move within the cell, and enables unicellular organisms to move independently</meaning></definition>

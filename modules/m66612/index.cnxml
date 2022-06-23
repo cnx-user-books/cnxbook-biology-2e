@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66612</md:content-id>
   <md:title>Animal Primary Tissues</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe epithelial tissues</item>
 <item>Discuss the different types of connective tissues in animals</item>
@@ -16,7 +16,7 @@
 <content>
 <para id="fs-idp98330912">The tissues of multicellular, complex animals are four primary types: epithelial, connective, muscle, and nervous. Recall that tissues are groups of similar cells (cells carrying out related functions). These tissues combine to form organs—like the skin or kidney—that have specific, specialized functions within the body. Organs are organized into organ systems to perform functions; examples include the circulatory system, which consists of the heart and blood vessels, and the digestive system, consisting of several organs, including the stomach, intestines, liver, and pancreas. Organ systems come together to create an entire organism.</para>
 <section id="fs-idp204335024"><title>Epithelial Tissues</title>
-<para id="fs-idp70316208"><term>Epithelial tissues</term> cover the outside of organs and structures in the body and line the lumens of organs in a single layer or multiple layers of cells. The types of epithelia are classified by the shapes of cells present and the number of layers of cells. Epithelia composed of a single layer of cells is called <term>simple epithelia</term>; epithelial tissue composed of multiple layers is called <term>stratified epithelia</term>. <link target-id="fs-idp5954256" document=""/> summarizes the different types of epithelial tissues.</para><table id="fs-idp5954256" summary="" class="top-titled">
+<para id="fs-idp70316208"><term>Epithelial tissues</term> cover the outside of organs and structures in the body and line the lumens of organs in a single layer or multiple layers of cells. The types of epithelia are classified by the shapes of cells present and the number of layers of cells. Epithelia composed of a single layer of cells is called <term>simple epithelia</term>; epithelial tissue composed of multiple layers is called <term>stratified epithelia</term>. <link target-id="fs-idp5954256" document=""/> summarizes the different types of epithelial tissues.</para><table id="fs-idp5954256" summary="">
 <tgroup cols="3" align="left">
 <colspec colnum="1" colname="1"/>
 <colspec colnum="2" colname="2"/>
@@ -40,7 +40,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_B33_02_01ab.png" width="550"/>
 </media>
 
-<caption>Squamous epithelia cells (a) have a slightly irregular shape, and a small, centrally located nucleus. These cells can be stratified into layers, as in (b) this human cervix specimen. (credit b: modification of work by Ed Uthman; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp163369840"><link target-id="fig-ch33_02_01" document=""/>a illustrates a layer of squamous cells with their membranes joined together to form an epithelium. Image <link target-id="fig-ch33_02_01" document=""/>b illustrates squamous epithelial cells arranged in stratified layers, where protection is needed on the body from outside abrasion and damage. This is called a stratified squamous epithelium and occurs in the skin and in tissues lining the mouth and vagina.</para>
+<caption>Squamous epithelia cells (a) have a slightly irregular shape, and a small, centrally located nucleus. These cells can be stratified into layers, as in (b) this human cervix specimen. (credit b: modification of work by Ed Uthman; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp163369840"><link target-id="fig-ch33_02_01" document=""/><emphasis effect="bold">a</emphasis> illustrates a layer of squamous cells with their membranes joined together to form an epithelium. Image <link target-id="fig-ch33_02_01" document=""/><emphasis effect="bold">b</emphasis> illustrates squamous epithelial cells arranged in stratified layers, where protection is needed on the body from outside abrasion and damage. This is called a stratified squamous epithelium and occurs in the skin and in tissues lining the mouth and vagina.</para>
 </section>
 <section id="fs-idm51468256">
 <title>Cuboidal Epithelia</title>
@@ -80,7 +80,7 @@
 </note></section>
 </section><section id="fs-idp122464224"><title>Connective Tissues</title>
 <para id="fs-idp39980816"><term>Connective tissues</term> are made up of a matrix consisting of living cells and a nonliving substance, called the ground substance. The ground substance is made of an organic substance (usually a protein) and an inorganic substance (usually a mineral or water). The principal cell of connective tissues is the fibroblast. This cell makes the fibers found in nearly all of the connective tissues. Fibroblasts are motile, able to carry out mitosis, and can synthesize whichever connective tissue is needed. Macrophages, lymphocytes, and, occasionally, leukocytes can be found in some of the tissues. Some tissues have specialized cells that are not found in the others. The <term>matrix</term> in connective tissues gives the tissue its density. When a connective tissue has a high concentration of cells or fibers, it has proportionally a less dense matrix.</para>
-<para id="fs-idm109329920">The organic portion or protein fibers found in connective tissues are either collagen, elastic, or reticular fibers. Collagen fibers provide strength to the tissue, preventing it from being torn or separated from the surrounding tissues. Elastic fibers are made of the protein elastin; this fiber can stretch to one and one half of its length and return to its original size and shape. Elastic fibers provide flexibility to the tissues. Reticular fibers are the third type of protein fiber found in connective tissues. This fiber consists of thin strands of collagen that form a network of fibers to support the tissue and other organs to which it is connected. The various types of connective tissues, the types of cells and fibers they are made of, and sample locations of the tissues is summarized in <link target-id="fs-idp129333216" document=""/>.</para><table id="fs-idp129333216" summary="" class="top-titled">
+<para id="fs-idm109329920">The organic portion or protein fibers found in connective tissues are either collagen, elastic, or reticular fibers. Collagen fibers provide strength to the tissue, preventing it from being torn or separated from the surrounding tissues. Elastic fibers are made of the protein elastin; this fiber can stretch to one and one half of its length and return to its original size and shape. Elastic fibers provide flexibility to the tissues. Reticular fibers are the third type of protein fiber found in connective tissues. This fiber consists of thin strands of collagen that form a network of fibers to support the tissue and other organs to which it is connected. The various types of connective tissues, the types of cells and fibers they are made of, and sample locations of the tissues is summarized in <link target-id="fs-idp129333216" document=""/>.</para><table id="fs-idp129333216" summary="">
 <tgroup cols="4" align="left">
 <colspec colnum="1" colname="1"/>
 <colspec colnum="2" colname="2"/>
@@ -193,7 +193,7 @@
 <para id="fs-idp50420432">The slightly granular material among the cells is a cytoplasmic fragment of a cell in the bone marrow. This is called a platelet or thrombocyte. Platelets participate in the stages leading up to coagulation of the blood to stop bleeding through damaged blood vessels. Blood has a number of functions, but primarily it transports material through the body to bring nutrients to cells and remove waste material from them.</para>
 </section>
 </section><section id="fs-idm35015984"><title>Muscle Tissues</title>
-<para id="fs-idp1620528">There are three types of muscle in animal bodies: smooth, skeletal, and cardiac. They differ by the presence or absence of striations or bands, the number and location of nuclei, whether they are voluntarily or involuntarily controlled, and their location within the body. <link target-id="fs-idm39762304" document=""/> summarizes these differences.</para><table id="fs-idm39762304" summary="" class="top-titled">
+<para id="fs-idp1620528">There are three types of muscle in animal bodies: smooth, skeletal, and cardiac. They differ by the presence or absence of striations or bands, the number and location of nuclei, whether they are voluntarily or involuntarily controlled, and their location within the body. <link target-id="fs-idm39762304" document=""/> summarizes these differences.</para><table id="fs-idm39762304" summary="">
 <tgroup cols="5" align="left">
 <colspec colnum="1" colname="1"/>
 <colspec colnum="2" colname="2"/>

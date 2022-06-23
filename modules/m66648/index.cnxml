@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66648</md:content-id>
   <md:title>Transport of Gases in Human Bodily Fluids</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe how oxygen is bound to hemoglobin and transported to body tissues</item>
 <item>Explain how carbon dioxide is transported from body tissues to the lungs</item>
@@ -75,7 +75,7 @@ and hydrogen ions (H<sup>+</sup>). As the level of carbon dioxide in the blood i
 </m:msubsup>
 <m:mtext>)</m:mtext>
 </m:mrow>
-</m:math></term> and hydrogen (H<sup>+</sup>) ions. Since carbon dioxide is quickly converted into bicarbonate ions, this reaction allows for the continued uptake of carbon dioxide into the blood down its concentration gradient. It also results in the production of H<sup>+</sup> ions. If too much H<sup>+</sup> is produced, it can alter blood pH. However, hemoglobin binds to the free H<sup>+</sup> ions and thus limits shifts in pH. The newly synthesized bicarbonate ion is transported out of the red blood cell into the liquid component of the blood in exchange for a chloride ion (Cl<sup>-</sup>); this is called the <term>chloride shift</term>. When the blood reaches the lungs, the bicarbonate ion is transported back into the red blood cell in exchange for the chloride ion. The H<sup>+</sup> ion dissociates from the hemoglobin and binds to the bicarbonate ion. This produces the carbonic acid intermediate, which is converted back into carbon dioxide through the enzymatic action of CA. The carbon dioxide produced is expelled through the lungs during exhalation.</para><equation class="unnumbered" id="eip-541"><m:math display="block">
+</m:math></term> and hydrogen (H<sup>+</sup>) ions. Since carbon dioxide is quickly converted into bicarbonate ions, this reaction allows for the continued uptake of carbon dioxide into the blood down its concentration gradient. It also results in the production of H<sup>+</sup> ions. If too much H<sup>+</sup> is produced, it can alter blood pH. However, hemoglobin binds to the free H<sup>+</sup> ions and thus limits shifts in pH. The newly synthesized bicarbonate ion is transported out of the red blood cell into the liquid component of the blood in exchange for a chloride ion (Cl<sup>-</sup>); this is called the <term>chloride shift</term>. When the blood reaches the lungs, the bicarbonate ion is transported back into the red blood cell in exchange for the chloride ion. The H<sup>+</sup> ion dissociates from the hemoglobin and binds to the bicarbonate ion. This produces the carbonic acid intermediate, which is converted back into carbon dioxide through the enzymatic action of CA. The carbon dioxide produced is expelled through the lungs during exhalation.</para><equation id="eip-541"><m:math display="block">
 <m:mrow>
 <m:mtable>
 <m:mtr>

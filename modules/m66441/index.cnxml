@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66441</md:content-id>
   <md:title>Lipids</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe the four major types of lipids</item>
 <item>Explain the role of fats in storing energy</item>
@@ -77,7 +77,7 @@
 </section>
 <section id="fs-id2013346">
 <title>Phospholipids</title>
-<para id="fs-id2682552"><term>Phospholipids</term> are major plasma membrane constituents that comprise cells' outermost layer. Like fats, they are comprised of fatty acid chains attached to a glycerol or sphingosine backbone. However, instead of three fatty acids attached as in triglycerides, there are two fatty acids forming diacylglycerol, and a modified phosphate group occupies the glycerol backbone's third carbon (<link target-id="fig-ch03_03_08" document=""/>). A phosphate group alone attached to a diacylglycerol does not qualify as a phospholipid. It is phosphatidate (diacylglycerol 3-phosphate), the precursor of phospholipids. An alcohol modifies the phosphate group. Phosphatidylcholine and phosphatidylserine are two important phospholipids that are in plasma membranes.</para>
+<para id="fs-id2682552"><term>Phospholipids</term> are major plasma membrane constituents that comprise cells' outermost layer. Like fats, they are comprised of fatty acid chains attached to a glycerol or sphingosine backbone. However, instead of three fatty acids attached as in triglycerides, there are two fatty acids forming diacylglycerol, and a modified phosphate group occupies the glycerol backbone's third carbon (<link target-id="fig-ch03_03_08" document=""/>). A phosphate group alone attached to a diaglycerol does not qualify as a phospholipid. It is phosphatidate (diacylglycerol 3-phosphate), the precursor of phospholipids. An alcohol modifies the phosphate group. Phosphatidylcholine and phosphatidylserine are two important phospholipids that are in plasma membranes.</para>
 <figure id="fig-ch03_03_08"><media id="fs-id1442842" alt="The molecular structure of a phospholipid is shown. It consists of two fatty acids attached to the first and second carbons in glycerol, and a phosphate group attached to the third position. The phosphate group may be further modified by addition of another molecule to one of its oxygens. Two molecules that may modify the phosphate group, choline and serine, are shown. Choline consists of a two-carbon chain with a hydroxy group attached to one end and a nitrogen attached to the other. The nitrogen, in turn, has three methyl groups attached to it and has a charge of plus one. Serine consists of a two-carbon chain with a hydroxyl group attached to one end. An amino group and a carboxyl group are attached to the other end.">
 <image mime-type="image/png" src="../../media/Figure_03_03_08.png" width="540"/>
 </media>
@@ -183,7 +183,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1512004"><term>lipid</term> <meaning id="fs-id1705359">macromolecule that is nonpolar and insoluble in water</meaning></definition>
 <definition id="fs-id2164292"><term>omega fat</term> <meaning id="fs-id1702829">type of polyunsaturated fat that the body requires; numbering the carbon omega starts from the methyl end or the end that is farthest from the carboxylic end</meaning></definition>
