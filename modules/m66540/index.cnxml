@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66540</md:content-id>
   <md:title>Other Acellular Entities: Prions and Viroids</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe prions and their basic properties</item>
 <item>Define viroids and their targets of infection</item>
@@ -98,7 +98,7 @@ Virology is the study of viruses, and a virologist is an individual trained in t
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idp193016160"><term>pathogen</term> <meaning id="fs-idm85846288">agent with the ability to cause disease</meaning></definition>
 <definition id="fs-idm7321664"><term>prion</term> <meaning id="fs-idp96030352">infectious particle that consists of proteins that replicate without DNA or RNA</meaning></definition>

@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66499</md:content-id>
   <md:title>Eukaryotic Transcription</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>List the steps in eukaryotic transcription</item>
 <item>Discuss the role of RNA polymerases in transcription</item>
@@ -22,7 +22,7 @@
 <title>The Three Eukaryotic RNA Polymerases</title>
 <para id="fs-id3043156">The features of eukaryotic mRNA synthesis are markedly more complex than those of prokaryotes. Instead of a single polymerase comprising five subunits, the eukaryotes have three polymerases that are each made up of 10 subunits or more. Each eukaryotic polymerase also requires a distinct set of transcription factors to bring it to the DNA template.</para>
 <para id="fs-id2074568">RNA polymerase I is located in the nucleolus, a specialized nuclear substructure in which ribosomal RNA (rRNA) is transcribed, processed, and assembled into ribosomes (<link target-id="tab-ch15_03_01" document=""/>). The rRNA molecules are considered structural RNAs because they have a cellular role but are not translated into protein. The rRNAs are components of the ribosome and are essential to the process of translation. RNA polymerase I synthesizes all of the rRNAs from the tandemly duplicated set of 18S, 5.8S, and 28S ribosomal genes. (Note that the “S” designation applies to “Svedberg” units, a nonadditive value that characterizes the speed at which a particle sediments during centrifugation.)</para>
-<table id="tab-ch15_03_01" class="top-titled" summary="table x.x">
+<table id="tab-ch15_03_01" summary="table x.x">
 <tgroup cols="4"><colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
@@ -82,10 +82,10 @@
 <para id="fs-id2730804">The conserved promoter elements for genes transcribed by polymerases I and III differ from those transcribed by RNA polymerase II. RNA polymerase I transcribes genes that have two GC-rich promoter sequences in the -45 to +20 region. These sequences alone are sufficient for transcription initiation to occur, but promoters with additional sequences in the region from -180 to -105 upstream of the initiation site will further enhance initiation. Genes that are transcribed by RNA polymerase III have upstream promoters or promoters that occur within the genes themselves.</para>
 <para id="fs-id2732804">Eukaryotic transcription is a tightly regulated process that requires a variety of proteins to interact with each other and with the DNA strand. Although the process of transcription in eukaryotes involves a greater metabolic investment than in prokaryotes, it ensures that the cell transcribes precisely the pre-mRNAs that it needs for protein synthesis.</para>
 <note id="fs-id2016560" class="evolution"><label/><title>Evolution Connection</title>
-<para id="fs-id1479424"><title>The Evolution of Promoters</title>
-The evolution of genes may be a familiar concept. Mutations can occur in genes during DNA replication, and the result may or may not be beneficial to the cell. By altering an enzyme, structural protein, or some other factor, the process of mutation can transform functions or physical features. However, eukaryotic promoters and other gene regulatory sequences may evolve as well. For instance, consider a gene that, over many generations, becomes more valuable to the cell. Maybe the gene encodes a structural protein that the cell needs to synthesize in abundance for a certain function. If this is the case, it would be beneficial to the cell for that gene’s promoter to recruit transcription factors more efficiently and increase gene expression.</para>
+<div id="zip-id1168701870894"><title>The Evolution of Promoters</title></div>
+<para id="fs-id1479424">The evolution of genes may be a familiar concept. Mutations can occur in genes during DNA replication, and the result may or may not be beneficial to the cell. By altering an enzyme, structural protein, or some other factor, the process of mutation can transform functions or physical features. However, eukaryotic promoters and other gene regulatory sequences may evolve as well. For instance, consider a gene that, over many generations, becomes more valuable to the cell. Maybe the gene encodes a structural protein that the cell needs to synthesize in abundance for a certain function. If this is the case, it would be beneficial to the cell for that gene’s promoter to recruit transcription factors more efficiently and increase gene expression.</para>
 <para id="fs-id2694641">Scientists examining the evolution of promoter sequences have reported varying results. In part, this is because it is difficult to infer exactly where a eukaryotic promoter begins and ends. Some promoters occur within genes; others are located very far upstream, or even downstream, of the genes they are regulating. However, when researchers limited their examination to human core promoter sequences that were defined experimentally as sequences that bind the preinitiation complex, they found that promoters evolve even faster than protein-coding genes.</para>
-<para id="fs-id1448131">It is still unclear how promoter evolution might correspond to the evolution of humans or other complex organisms. However, the evolution of a promoter to effectively make more or less of a given gene product is an intriguing alternative to the evolution of the genes themselves.<footnote id="fs-idm20771056">H Liang et al., “Fast evolution of core promoters in primate genomes,” <emphasis effect="italics">Molecular Biology and Evolution</emphasis> 25 (2008): 1239–44.</footnote>
+<para id="fs-id1448131">It is still unclear how promoter evolution might correspond to the evolution of humans or other complex organisms. However, the evolution of a promoter to effectively make more or less of a given gene product is an intriguing alternative to the evolution of the genes themselves.<sup><footnote id="fs-idm20771056">H Liang et al., “Fast evolution of core promoters in primate genomes,” <emphasis effect="italics">Molecular Biology and Evolution</emphasis> 25 (2008): 1239–44.</footnote></sup>
 </para>
 </note></section>
 </section>
@@ -180,7 +180,7 @@ The evolution of genes may be a familiar concept. Mutations can occur in genes d
 </list>
 </solution>
 </exercise></section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2273024"><term>CAAT box</term> <meaning id="fs-id1381048">(GGCCAATCT) essential eukaryotic promoter sequence involved in binding transcription factors</meaning></definition>
 <definition id="fs-id1478784"><term>FACT</term> <meaning id="fs-id3086772">complex that “facilitates chromatin transcription” by disassembling nucleosomes ahead of a transcribing RNA polymerase II and reassembling them after the polymerase passes by</meaning></definition>

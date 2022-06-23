@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66497</md:content-id>
   <md:title>The Genetic Code</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Explain the “central dogma” of DNA-protein synthesis</item>
 <item>Describe the genetic code and how the nucleotide sequence prescribes the amino acid and the protein sequence</item>
@@ -122,7 +122,7 @@
 <para id="eip-967">The first step to writing the amino acid sequence is to find the start codon AUG. Then, the nucleotide sequence is separated into triplets: CU AUG UGU CGU AAC AGC CGA UGA. We stop the translation at UGA because that triplet encodes a stop codon. When we convert these codons to amino acids, the sequence becomes Met Cys Arg Asn Ser Arg.</para>
 </solution>
 </exercise></section> 
- </content>
+</content>
 <glossary>
 <definition id="fs-id2123902"><term>central dogma</term> <meaning id="fs-id2051878">states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins</meaning></definition>
 <definition id="fs-id1803173"><term>codon</term> <meaning id="fs-id1926864">three consecutive nucleotides in mRNA that specify the insertion of an amino acid or the release of a polypeptide chain during translation</meaning></definition>

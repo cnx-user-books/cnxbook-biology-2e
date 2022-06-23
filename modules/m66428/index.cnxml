@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66428</md:content-id>
   <md:title>Themes and Concepts of Biology</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Identify and describe the properties of life</item>
 <item>Describe the levels of organization among living things</item>
@@ -18,7 +18,7 @@
 <para id="fs-id2248548">From its earliest beginnings, biology has wrestled with three questions: What are the shared properties that make something “alive”? Once we know something is alive, how do we find meaningful levels of organization in its structure? Finally, when faced with the remarkable diversity of life, how do we organize the different kinds of organisms so that we can better understand them? As scientists discover new organisms every day, biologists continue to seek answers to these and other questions.</para>
 <section id="fs-id1396394">
 <title>Properties of Life</title>
-<para id="fs-id2137494">All living organisms share several key characteristics or functions: order, sensitivity or response to the environment, reproduction, adaptation, growth and development, regulation/homeostasis, energy processing, and evolution. When viewed together, these eight characteristics serve to define life.</para><section id="fs-id2008387">
+<para id="fs-id2137494">All living organisms share several key characteristics or functions: order, sensitivity or response to the environment, reproduction, adaptation, growth and development, regulation, homeostasis, energy processing, and evolution. When viewed together, these nine characteristics serve to define life.</para><section id="fs-id2008387">
 <title>Order</title>
 <figure id="fig-ch01_02_01"><media id="fs-id1430603" alt="A photo shows a light-colored toad covered in bright green spots.">
 <image mime-type="image/jpg" src="../../media/Figure_01_02_09.jpg" width="320"/>
@@ -40,10 +40,8 @@
 </note></section>
 <section id="fs-id1794075">
 <title>Reproduction</title>
-<para id="fs-id1397107">Single-celled organisms reproduce by first duplicating their DNA, and then dividing it equally as the cell prepares to divide to form two new cells. Multicellular organisms often produce specialized reproductive cells—gametes and oocyte and sperm cells. After fertilization (the fusion of an oocyte and a sperm cell), a new individual develops. When reproduction occurs, DNA containing genes are passed along to an organism’s offspring. These genes ensure that the offspring will belong to the same species and will have similar characteristics, such as size and shape.</para>
+<para id="fs-id1397107">Single-celled organisms reproduce by first duplicating their DNA, and then dividing it equally as the cell prepares to divide to form two new cells. Multicellular organisms often produce specialized reproductive germline, gamete, oocyte, and sperm cells. After fertilization (the fusion of an oocyte and a sperm cell), a new individual develops. When reproduction occurs, DNA containing genes are passed along to an organism’s offspring. These genes ensure that the offspring will belong to the same species and will have similar characteristics, such as size and shape.</para>
 </section>
-<section id="adaptation"><title>Adaptation</title>
-<para id="fit">All living organisms exhibit a “fit” to their environment. Biologists refer to this fit as adaptation, and it is a consequence of evolution by natural selection, which operates in every lineage of reproducing organisms. Examples of adaptations are diverse and unique, from heat-resistant Archaea that live in boiling hotsprings to the tongue length of a nectar-feeding moth that matches the size of the flower from which it feeds. Adaptations enhance the reproductive potential of the individuals exhibiting them, including their ability to survive to reproduce. Adaptations are not constant. As an environment changes, natural selection causes the characteristics of the individuals in a population to track those changes.</para></section>
 <section id="fs-id2890560">
 <title>Growth and Development</title>
 <para id="fs-id1962069">Organisms grow and develop as a result of genes providing specific instructions that will direct cellular growth and development. This ensures that a species’ young (<link target-id="fig-ch01_02_03" document=""/>) will grow up to exhibit many of the same characteristics as its parents.</para>
@@ -53,14 +51,17 @@
 <caption>Although no two look alike, these kittens have inherited genes from both parents and share many of the same characteristics. (credit: Rocky Mountain Feline Rescue)</caption>
 </figure></section>
 <section id="fs-id1470518">
-<title>Regulation/Homeostasis</title>
-<para id="fs-id2195734">Even the smallest organisms are complex and require multiple regulatory mechanisms to coordinate internal functions, respond to stimuli, and cope with environmental stresses. <term>Homeostasis</term> (literally, “steady state”) refers to the relatively stable internal environment required to maintain life. Two examples of internal functions regulated in an organism are nutrient transport and blood flow. Organs (groups of tissues working together) perform specific functions, such as carrying oxygen throughout the body, removing wastes, delivering nutrients to every cell, and cooling the body.</para>
+<title>Regulation</title>
+<para id="fs-id2195734">Even the smallest organisms are complex and require multiple regulatory mechanisms to coordinate internal functions, respond to stimuli, and cope with environmental stresses. Two examples of internal functions regulated in an organism are nutrient transport and blood flow. Organs (groups of tissues working together) perform specific functions, such as carrying oxygen throughout the body, removing wastes, delivering nutrients to every cell, and cooling the body.</para>
+</section>
+<section id="fs-id2377700">
+<title>Homeostasis</title>
 <figure id="fig-ch01_02_04"><media id="fs-id1582545" alt="A photos shows a white, furry polar bear.">
 <image mime-type="image/jpg" src="../../media/Figure_01_02_12.jpg" width="320"/>
 </media>
 <caption>Polar bears (<emphasis effect="italics">Ursus maritimus</emphasis>) and other mammals living in ice-covered regions maintain their body temperature by generating heat and reducing heat loss through thick fur and a dense layer of fat under their skin. (credit: “longhorndave”/Flickr)</caption>
 </figure>
-<para id="fs-id2853902">In order to function properly, cells require appropriate conditions such as proper temperature, pH, and appropriate concentration of diverse chemicals. These conditions may, however, change from one moment to the next. Organisms are able to maintain homeostatic internal conditions within a narrow range almost constantly, despite environmental changes, by activation of regulatory mechanisms. For example, an organism needs to regulate body temperature through the thermoregulation process. Organisms that live in cold climates, such as the polar bear (<link target-id="fig-ch01_02_04" document=""/>), have body structures that help them withstand low temperatures and conserve body heat. Structures that aid in this type of insulation include fur, feathers, blubber, and fat. In hot climates, organisms have methods (such as perspiration in humans or panting in dogs) that help them to shed excess body heat.</para>
+<para id="fs-id2853902">In order to function properly, cells require appropriate conditions such as proper temperature, pH, and appropriate concentration of diverse chemicals. These conditions may, however, change from one moment to the next. Organisms are able to maintain internal conditions within a narrow range almost constantly, despite environmental changes, through <term>homeostasis</term> (literally, “steady state”). For example, an organism needs to regulate body temperature through the thermoregulation process. Organisms that live in cold climates, such as the polar bear (<link target-id="fig-ch01_02_04" document=""/>), have body structures that help them withstand low temperatures and conserve body heat. Structures that aid in this type of insulation include fur, feathers, blubber, and fat. In hot climates, organisms have methods (such as perspiration in humans or panting in dogs) that help them to shed excess body heat.</para>
 </section>
 <section id="fs-id1695658">
 <title>Energy Processing</title>
@@ -70,11 +71,10 @@
 
 <caption>The California condor (<emphasis effect="italics">Gymnogyps californianus</emphasis>) uses chemical energy derived from food to power flight. California condors are an endangered species. This bird has a wing tag that helps biologists identify the individual. (credit: Pacific Southwest Region U.S. Fish and Wildlife Service)</caption></figure><para id="fs-id1471220">All organisms use a source of energy for their metabolic activities. Some organisms capture energy from the sun and convert it into chemical energy in food. Others use chemical energy in molecules they take in as food (<link target-id="fig-ch01_02_05" document=""/>).</para>
 </section>
-<section id="newfromerr"><title>Evolution</title><para id="evnew">The diversity of life on Earth is a result of mutations, or random changes in hereditary material over time. These mutations allow the possibility for organisms to adapt to a changing environment. An organism that evolves characteristics fit for the environment will have greater reproductive success, subject to the forces of natural selection. </para></section>
 </section>
 <section id="fs-id2589720">
 <title>Levels of Organization of Living Things</title>
-<para id="fs-id1850530">Living things are highly organized and structured, following a hierarchy that we can examine on a scale from small to large. The <term>atom</term> is the smallest and most fundamental unit of matter  that retains the properties of an element. It consists of a nucleus surrounded by electrons. Atoms form molecules. A <term>molecule</term> is a chemical structure consisting of at least two atoms held together by one or more chemical bonds. Many molecules that are biologically important are <term>macromolecules</term>, large molecules that are typically formed by polymerization (a polymer is a large molecule that is made by combining smaller units called monomers, which are simpler than macromolecules). An example of a macromolecule is deoxyribonucleic acid (DNA) (<link target-id="fig-ch01_02_06" document=""/>), which contains the instructions for the structure and functioning of all living organisms.</para>
+<para id="fs-id1850530">Living things are highly organized and structured, following a hierarchy that we can examine on a scale from small to large. The <term>atom</term> is the smallest and most fundamental unit of matter. It consists of a nucleus surrounded by electrons. Atoms form molecules. A <term>molecule</term> is a chemical structure consisting of at least two atoms held together by one or more chemical bonds. Many molecules that are biologically important are <term>macromolecules</term>, large molecules that are typically formed by polymerization (a polymer is a large molecule that is made by combining smaller units called monomers, which are simpler than macromolecules). An example of a macromolecule is deoxyribonucleic acid (DNA) (<link target-id="fig-ch01_02_06" document=""/>), which contains the instructions for the structure and functioning of all living organisms.</para>
 <figure id="fig-ch01_02_06"><media id="fs-id1288287" alt="Molecular model depicts a D N A molecule, showing its double helix structure.  The double helix is made up of two separate vertical strands of small particles, or atoms.  These strands are connected by horizontal bands of particles.  The vertical strands are twisted, and the structure has the shape of a spiral staircase.">
 <image mime-type="image/jpg" src="../../media/Figure_01_02_14.jpg" width="280"/>
 </media>
@@ -87,15 +87,16 @@
 <para id="eip-622">Biologists collectively call all the individuals of a species living within a specific area a <term>population</term>. For example, a forest may include many pine trees, which represent the population of pine trees in this forest. Different populations may live in the same specific area. For example, the forest with the pine trees includes populations of flowering plants, insects, and microbial populations. A <term>community</term> is the sum of populations inhabiting a particular area. For instance, all of the trees, flowers, insects, and other populations in a forest form the forest’s community. The forest itself is an ecosystem. An <term>ecosystem</term> consists of all the living things in a particular area together with the abiotic, nonliving parts of that environment such as nitrogen in the soil or rain water. At the highest level of organization (<link target-id="fig-ch01_02_07" document=""/>), the <term>biosphere</term> is the collection of all ecosystems, and it represents the zones of life on Earth. It includes land, water, and even the atmosphere to a certain extent.</para>
 <note id="fs-id1429210" class="visual-connection"><label/><title>Visual Connection</title>
 <figure id="fig-ch01_02_07"><media id="fs-id2409131" alt="A flow chart shows the hierarchy of living organisms. From smallest to largest, this hierarchy includes: (1) Organelles, such as nuclei, that exist inside cells. (2) Cells, such as a red blood cell. (3) Tissues, such as human skin tissue. (4) Organs such as the stomach make up the human digestive system, an example of an organ system. (5) Organisms, populations, and communities. In a forest, each pine tree is an organism. Together, all the pine trees make up a population. All the plant and animal species in the forest comprise a community. (6) Ecosystems: the coastal ecosystem in the Southeastern United States includes living organisms and the environment in which they live. (7) The biosphere: encompasses all the ecosystems on Earth.">
-<image mime-type="image/png" src="../../media/Figure_01_02_15.png" width="550"/></media>
-
-<caption>shows the biological levels of organization of living things. From a single organelle to the entire biosphere, living organisms are parts of a highly structured hierarchy. (credit “organelles”: modification of work by Umberto Salvagnin; credit “cells”: modification of work by Bruce Wetzel, Harry Schaefer/ National Cancer Institute; credit “tissues”: modification of work by Kilbad; Fama Clamosa; Mikael Häggström; credit “organs”: modification of work by Mariana Ruiz Villareal; credit “organisms”: modification of work by "Crystal"/Flickr; credit “ecosystems”: modification of work by US Fish and Wildlife Service Headquarters; credit “biosphere”: modification of work by NASA)</caption></figure><para id="fs-id2596155">Which of the following statements is false?</para>
+<image mime-type="image/png" src="../../media/Figure_01_02_15.png" width="320"/></media>
+<caption>shows the biological levels of organization of living things. From a single organelle to the entire biosphere, living organisms are parts of a highly structured hierarchy. (credit “organelles”: modification of work by Umberto Salvagnin; credit “cells”: modification of work by Bruce Wetzel, Harry Schaefer/ National Cancer Institute; credit “tissues”: modification of work by Kilbad; Fama Clamosa; Mikael Häggström; credit “organs”: modification of work by Mariana Ruiz Villareal; credit “organisms”: modification of work by "Crystal"/Flickr; credit “ecosystems”: modification of work by US Fish and Wildlife Service Headquarters; credit “biosphere”: modification of work by NASA)</caption>
+</figure>
+<para id="fs-id2596155">Which of the following statements is false?</para>
 <list id="fs-id1384518" list-type="enumerated" number-style="lower-alpha">
 <item>Tissues exist within organs which exist within organ systems.</item>
 <item>Communities exist within populations which exist within ecosystems.</item>
 <item>Organelles exist within cells which exist within tissues.</item>
 <item>Communities exist within ecosystems which exist in the biosphere.</item>
-</list>
+</list> 
 </note></section>
 <section id="fs-id1912612">
 <title>The Diversity of Life</title>
@@ -105,9 +106,10 @@
 </media>
 
 <caption>Microbiologist Carl Woese constructed this phylogenetic tree using data that he obtained from sequencing ribosomal RNA genes. The tree shows the separation of living organisms into three domains: Bacteria, Archaea, and Eukarya. Bacteria and Archaea are prokaryotes, single-celled organisms lacking intracellular organelles. (credit: Eric Gaba; NASA Astrobiology Institute)
-</caption></figure><note id="fs-id2581806" class="evolution"><label/><title>Evolution Connection</title>
+</caption></figure><note id="fs-id2581806" class="evolution"><label/><title>Evolution Connection</title> 
 <para id="fs-id2024686"><title>Carl Woese and the Phylogenetic Tree</title>In the past, biologists grouped living organisms into five kingdoms: animals, plants, fungi, protists, and bacteria. They based the organizational scheme mainly on physical features, as opposed to physiology, biochemistry, or molecular biology, all of which modern systematics use. American microbiologist Carl Woese's pioneering work in the early 1970s has shown, however, that life on Earth has evolved along three lineages, now called domains—Bacteria, Archaea, and Eukarya. The first two are prokaryotic cells with microbes that lack membrane-enclosed nuclei and organelles. The third domain contains the eukaryotes and includes unicellular microorganisms (protists), together with the three remaining kingdoms (fungi, plants, and animals). Woese defined Archaea as a new domain, and this resulted in a new taxonomic tree (<link target-id="fig-ch01_02_08" document=""/>). Many organisms belonging to the Archaea domain live under extreme conditions and are called extremophiles. To construct his tree, Woese used genetic relationships rather than similarities based on morphology (shape).</para>
-<para id="fs-id2956594">Woese constructed his tree from universally distributed comparative gene sequencing that are present in every organism, and conserved (meaning that these genes have remained essentially unchanged throughout evolution). Woese’s approach was revolutionary because comparing physical features are insufficient to differentiate between the prokaryotes that appear fairly similar in spite of their tremendous biochemical diversity and genetic variability (<link target-id="fig-ch01_02_09" document=""/>). Comparing rRNA sequences provided Woese with a sensitive device that revealed the extensive variability of prokaryotes, and which justified separating the prokaryotes into two domains: bacteria and archaea.</para><figure id="fig-ch01_02_09" orient="vertical"><media id="eip-idp79648976" alt="There are four photos shown.  The first photo is a micrograph, showing tubelike bacterial.  The second photo shows a steaming body of water, refered to as a hot vent.  Some of the water is a typical blue, while the outer edges are rust colored.  The third picture shows a tall sunflower, with a thick stem and bright yellow petals.  The fourth photo shows a muscular lion that has a thick mane of hair around its neck and head. ">
+<para id="fs-id2956594">Woese constructed his tree from universally distributed comparative gene sequencing that are present in every organism, and conserved (meaning that these genes have remained essentially unchanged throughout evolution). Woese’s approach was revolutionary because comparing physical features are insufficient to differentiate between the prokaryotes that appear fairly similar in spite of their tremendous biochemical diversity and genetic variability (<link target-id="fig-ch01_02_09" document=""/>). Comparing homologous DNA and RNA sequences provided Woese with a sensitive device that revealed the extensive variability of prokaryotes, and which justified separating the prokaryotes into two domains: bacteria and archaea.</para>
+<figure id="fig-ch01_02_09" orient="vertical"><media id="eip-idp79648976" alt="There are four photos shown.  The first photo is a micrograph, showing tubelike bacterial.  The second photo shows a steaming body of water, refered to as a hot vent.  Some of the water is a typical blue, while the outer edges are rust colored.  The third picture shows a tall sunflower, with a thick stem and bright yellow petals.  The fourth photo shows a muscular lion that has a thick mane of hair around its neck and head. ">
 <image mime-type="image/png" src="../../media/Figure_01_02_17abcd.png" width="400"/>
 </media>
 
@@ -146,7 +148,7 @@
 <item>Communities exist within populations which exist within ecosystems.</item>
 <item>Organelles exist within cells which exist within tissues.</item>
 <item>Communities exist within ecosystems which exist in the biosphere.</item>
-</list>
+</list> 
 </problem>
 <solution id="fs-id3131619">
 <label/>
@@ -271,9 +273,9 @@
 <para id="fs-id2162573">Researchers can approach biology from the smallest to the largest, and everything in between. For instance, an ecologist may study a population of individuals, the population’s community, the community’s ecosystem, and the ecosystem’s part in the biosphere. When studying an individual organism, a biologist could examine the cell and its organelles, the tissues that the cells make up, the organs and their respective organ systems, and the sum total—the organism itself.</para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
-<definition id="fs-id2645525"><term>atom</term> <meaning id="fs-id2926843">smallest and most fundamental unit of matter that retains the properties of an element</meaning></definition>
+<definition id="fs-id2645525"><term>atom</term> <meaning id="fs-id2926843">smallest and most fundamental unit of matter</meaning></definition>
 <definition id="fs-id2989543"><term>biochemistry</term> <meaning id="fs-id1418272">study of the chemistry of biological organisms</meaning></definition>
 <definition id="fs-id1006438"><term>biosphere</term> <meaning id="fs-id1506540">collection of all the ecosystems on Earth</meaning></definition>
 <definition id="fs-id2629926"><term>botany</term> <meaning id="fs-id1980536">study of plants</meaning></definition>

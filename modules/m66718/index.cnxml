@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66718</md:content-id>
   <md:title>Adaptive Evolution</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Explain the different ways natural selection can shape populations</item>
 <item>Describe how these different forces can lead to different outcomes in terms of the population variation</item>
@@ -12,7 +12,7 @@
 </metadata>
 
 <content>
-<para id="fs-idp42444224">Natural selection acts on the population’s heritable traits: selecting for beneficial alleles that allow for environmental adaptation, and thus increasing their frequency in the population, while selecting against deleterious alleles and thereby decreasing their frequency. Scientists call this process <term>adaptive evolution</term>. Natural selection acts on entire organisms, not on an individual allele within the organism. An individual may carry a very beneficial genotype with a resulting phenotype that, for example, increases the ability to reproduce (fecundity), but if that same individual also carries an allele that results in a fatal childhood disease, that fecundity phenotype will not pass to the next generation because the individual will not live to reach reproductive age. Natural selection acts at the individual's level. It selects for individuals with greater contributions to the gene pool of the next generation. Scientists call this an organism’s <term>evolutionary (Darwinian) fitness</term>.</para>
+<para id="fs-idp42444224">Natural selection only acts on the population’s heritable traits: selecting for beneficial alleles and thus increasing their frequency in the population, while selecting against deleterious alleles and thereby decreasing their frequency. Scientists call this process <term>adaptive evolution</term>. Natural selection does not act on individual alleles, but on entire organisms. An individual may carry a very beneficial genotype with a resulting phenotype that, for example, increases the ability to reproduce (fecundity), but if that same individual also carries an allele that results in a fatal childhood disease, that fecundity phenotype will not pass to the next generation because the individual will not live to reach reproductive age. Natural selection acts at the individual's level. It selects for individuals with greater contributions to the gene pool of the next generation. Scientists call this an organism’s <term>evolutionary (Darwinian) fitness</term>.</para>
 <para id="fs-idp53909200">Fitness is often quantifiable and is measured by scientists in the field. However, it is not an individual's absolute fitness that counts, but rather how it compares to the other organisms in the population. Scientists call this concept <term>relative fitness</term>, which allows researchers to determine which individuals are contributing additional offspring to the next generation, and thus, how the population might evolve.</para>
 <para id="fs-idm20346704">There are several ways selection can affect population variation: stabilizing selection, directional selection, diversifying selection, frequency-dependent selection, and sexual selection. As natural selection influences the allele frequencies in a population, individuals can either become more or less genetically similar and the phenotypes can become more similar or more disparate.</para><section id="fs-idp51453168">
 <title>Stabilizing Selection</title>

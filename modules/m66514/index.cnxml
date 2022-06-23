@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66514</md:content-id>
   <md:title>Applying Genomics</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Explain pharmacogenomics</item>
 <item>Define polygenic</item>
@@ -23,7 +23,7 @@
 </media>
 
 <caption><emphasis effect="italics">PCA3</emphasis> is a gene that is expressed in prostate epithelial cells and overexpressed in cancerous cells. A high <emphasis effect="italics">PCA3</emphasis> concentration in urine is indicative of prostate cancer. The <emphasis effect="italics">PCA3</emphasis> test is a better indicator of cancer than the more well known PSA test, which measures the level of PSA (prostate-specific antigen) in the blood.</caption></figure></para>
-<para id="fs-id1433219">In 2011, the United States Preventative Services Task Force recommended against using the PSA test to screen healthy people for prostate cancer. Their recommendation is based on evidence that screening does not reduce the risk of death from prostate cancer. Prostate cancer often develops very slowly and does not cause problems, while the cancer treatment can have severe side effects. The <emphasis effect="italics">PCA3</emphasis> test is more accurate, but screening may still result in people who would not have been harmed by the cancer itself suffering side effects from treatment. What do you think? Should healthy people receive prostate cancer screenings using the <emphasis effect="italics">PCA3</emphasis> or PSA test? Should people in general receive screenings to find out if they have a genetic risk for cancer or other diseases?</para>
+<para id="fs-id1433219">In 2011, the United States Preventative Services Task Force recommended against using the PSA test to screen healthy men for prostate cancer. Their recommendation is based on evidence that screening does not reduce the risk of death from prostate cancer. Prostate cancer often develops very slowly and does not cause problems, while the cancer treatment can have severe side effects. The <emphasis effect="italics">PCA3</emphasis> test is more accurate, but screening may still result in men who would not have been harmed by the cancer itself suffering side effects from treatment. What do you think? Should all healthy men receive prostate cancer screenings using the <emphasis effect="italics">PCA3</emphasis> or PSA test? Should people in general receive screenings to find out if they have a genetic risk for cancer or other diseases?</para>
 <!-- <link window="new" target-id="fig-ch17_04_01" document=""/> There are no right or wrong answers to these questions. While it is true that prostate cancer treatment itself can be harmful, many men would rather be aware that they have cancer so they can monitor the disease and begin treatment if it progresses. And while genetic screening may be useful, it is expensive and may cause needless worry. People with certain risk factors may never develop the disease, and preventative treatments may do more harm than good. -->
 </note>
 </section>
@@ -59,7 +59,7 @@
 <section id="fs-id2645578" class="visual-exercise"><title>Visual Connection Questions</title>
 <exercise id="fs-id1481511">
 <problem id="fs-id1612804">
-<para id="fs-id1602896"><link target-id="fig-ch17_04_01" document=""/> In 2011, the United States Preventative Services Task Force recommended against using the PSA test to screen healthy people for prostate cancer. Their recommendation is based on evidence that screening does not reduce the risk of death from prostate cancer. Prostate cancer often develops very slowly and does not cause problems, while the cancer treatment can have severe side effects. The <emphasis effect="italics">PCA3</emphasis> test is more accurate, but screening may still result in people who would not have been harmed by the cancer itself suffering side effects from treatment. What do you think? Should healthy people be screened for prostate cancer using the <emphasis effect="italics">PCA3</emphasis> or PSA test? Should people in general be screened to find out if they have a genetic risk for cancer or other diseases?</para>
+<para id="fs-id1602896"><link target-id="fig-ch17_04_01" document=""/> In 2011, the United States Preventative Services Task Force recommended against using the PSA test to screen healthy men for prostate cancer. Their recommendation is based on evidence that screening does not reduce the risk of death from prostate cancer. Prostate cancer often develops very slowly and does not cause problems, while the cancer treatment can have severe side effects. The <emphasis effect="italics">PCA3</emphasis> test is considered to be more accurate, but screening may still result in men who would not have been harmed by the cancer itself suffering side effects from treatment. What do you think? Should all healthy men be screened for prostate cancer using the <emphasis effect="italics">PCA3</emphasis> or PSA test? Should people in general be screened to find out if they have a genetic risk for cancer or other diseases?</para>
 </problem>
 <solution id="fs-id2019239">
 <para id="fs-id1378262"><link target-id="fig-ch17_04_01" document=""/> There are no right or wrong answers to these questions. While it is true that prostate cancer treatment itself can be harmful, many men would rather be aware that they have cancer so they can monitor the disease and begin treatment if it progresses. And while genetic screening may be useful, it is expensive and may cause needless worry. People with certain risk factors may never develop the disease, and preventative treatments may do more harm than good.</para>
@@ -102,7 +102,7 @@
 <solution id="fs-id1987001"><label/>
 <para id="fs-id1977754">Genomics can provide the unique DNA sequence of an individual, which can be used for personalized medicine and treatment options.</para></solution></exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2154950"><term>metagenomics</term> <meaning id="fs-id2195661">study of multiple species' collective genomes that grow and interact in an environmental niche</meaning></definition>
 <definition id="fs-id2370165"><term>pharmacogenomics</term> <meaning id="fs-id2115614">study of drug interactions with the genome or proteome; also called toxicogenomics</meaning></definition>

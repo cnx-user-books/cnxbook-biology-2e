@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66548</md:content-id>
   <md:title>Bacterial Diseases in Humans</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Identify bacterial diseases that caused historically important plagues and epidemics</item>
 <item>Describe the link between biofilms and foodborne diseases</item>
@@ -22,9 +22,9 @@
 <para id="fs-idp17984832">In the 21<sup>st</sup> century, infectious diseases remain among the leading causes of death worldwide, despite advances made in medical research and treatments in recent decades. A disease <emphasis effect="italics">spreads</emphasis> when the pathogen that causes it is passed from one person to another. For a pathogen to cause disease, it must be able to reproduce in the host’s body and damage the host in some way.</para>
 <section id="fs-idp11495984">
 <title>The Plague of Athens</title>
-<para id="fs-idp41060352">In 430 B.C., the Plague of Athens killed one-quarter of the Athenian troops who were fighting in the great Peloponnesian War and weakened Athens’s dominance and power. The plague impacted people living in overcrowded Athens as well as troops aboard ships that had to return to Athens. The source of the plague may have been identified recently when researchers from the University of Athens were able to use DNA from teeth recovered from a mass grave. The scientists identified nucleotide sequences from a pathogenic bacterium, <emphasis effect="italics">Salmonella enterica </emphasis>serovar Typhi (<link target-id="fig-ch22_04_01" document=""/>), which causes <emphasis effect="italics">typhoid fever</emphasis>.<footnote id="fs-idm22859824">Papagrigorakis MJ, Synodinos PN, and Yapijakis C. Ancient typhoid epidemic reveals possible ancestral strain of <emphasis effect="italics">Salmonella enterica</emphasis> serovar Typhi. <emphasis effect="italics">Infect Genet Evol</emphasis> 7 (2007): 126–7, Epub 2006 Jun.</footnote> This disease is commonly seen in overcrowded areas and has caused epidemics throughout recorded history.</para>
+<para id="fs-idp41060352">In 430 B.C., the Plague of Athens killed one-quarter of the Athenian troops who were fighting in the great Peloponnesian War and weakened Athens’s dominance and power. The plague impacted people living in overcrowded Athens as well as troops aboard ships that had to return to Athens. The source of the plague may have been identified recently when researchers from the University of Athens were able to use DNA from teeth recovered from a mass grave. The scientists identified nucleotide sequences from a pathogenic bacterium, <emphasis effect="italics">Salmonella enterica </emphasis>serovar Typhi (<link target-id="fig-ch22_04_01" document=""/>), which causes <emphasis effect="italics">typhoid fever</emphasis>.<sup><footnote id="fs-idm22859824">Papagrigorakis MJ, Synodinos PN, and Yapijakis C. Ancient typhoid epidemic reveals possible ancestral strain of <emphasis effect="italics">Salmonella enterica</emphasis> serovar Typhi. <emphasis effect="italics">Infect Genet Evol</emphasis> 7 (2007): 126–7, Epub 2006 Jun.</footnote></sup> This disease is commonly seen in overcrowded areas and has caused epidemics throughout recorded history.</para>
 <figure id="fig-ch22_04_01"><media id="fs-idm14825952" alt="Micrograph shows pink rod-shaped bacteria.">
-<image mime-type="image/png" src="../../media/Figure_B22_04_07.png"/>
+<image mime-type="image/png" src="../../media/Figure_B22_04_07.png" width="610"/>
 </media>
 
 <caption><emphasis effect="italics">Salmonella enterica. Salmonella enterica </emphasis>serovar Typhi, the causative agent of Typhoid fever, is a Gram-negative, rod-shaped gamma proteobacterium. Typhoid fever, which is spread through feces, causes intestinal hemorrhage, high fever, delirium, and dehydration. Today, between 16 and 33 million cases of this re-emerging disease occur annually, resulting in over 200,000 deaths. Carriers of the disease can be asymptomatic. In a famous case in the early 1900s, a cook named Mary Mallon (“Typhoid Mary”) unknowingly spread the disease to over fifty people, three of whom died. Other serotypes of <emphasis effect="italics">Salmonella</emphasis> cause food poisoning. (credit: modification of work by NCI, CDC)</caption></figure></section>
@@ -48,7 +48,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_22_04_03.jpg" width="420"/>
 </media>
 <caption>Emerging diseases. The map shows regions where bacterial diseases are emerging or re-emerging. (credit: modification of work by NIH)</caption></figure><para id="fs-idp19069488">Some of the present emerging diseases are not actually new, but are diseases that were catastrophic in the past (<link target-id="fig-ch22_04_04" document=""/>). They devastated populations and became dormant for a while, just to come back, sometimes more virulent than before, as was the case with bubonic plague. Other diseases, like tuberculosis, were never eradicated but were under control in some regions of the world until coming back, mostly in urban centers with high concentrations of immunocompromised people. WHO has identified certain diseases whose worldwide re-emergence should be monitored. Among these are three viral diseases (dengue fever, yellow fever, and zika), and three bacterial diseases (diphtheria, cholera, and bubonic plague). The war against infectious diseases has no foreseeable end.</para><figure id="fig-ch22_04_04" class=" "><media id="fs-idm81635040" alt="Part A shows the red, bullseye-shaped rash of a person infected with Borrelia. Part B shows a micrograph of Borrelia, which look like tiny corkscrews. Part C shows the life cycle of the bacteria, which begins when Borrelia infect a tick egg. The egg hatches into larva, which feeds on a mouse, then into a nymph, which also feeds on a mouse. The nymph feeds again, this time on a deer, or sometimes a human.">
-<image mime-type="image/png" src="../../media/Figure_B22_04_08.png"/>
+<image mime-type="image/png" src="../../media/Figure_B22_04_08.png" width="680"/>
 </media>
 <caption>Lyme Disease. Lyme disease often, but not always, results in (a) a characteristic bullseye rash. The disease is caused by a (b) Gram-negative spirochete bacterium of the genus <emphasis effect="italics">Borrelia</emphasis>. The bacteria (c) infect ticks, which in turn infect mice. Deer are the preferred secondary host, but the ticks also may feed on humans. Untreated, the disease causes chronic disorders in the nervous system, eyes, joints, and heart. The disease is named after Lyme, Connecticut, where an outbreak occurred in 1995 and has subsequently spread. The disease is not new, however. Genetic evidence suggests that Ötzi the Iceman, a 5,300-year-old mummy found in the Alps, was infected with <emphasis effect="italics">Borrelia</emphasis>. (credit a: James Gathany, CDC; credit b: CDC; scale-bar data from Matt Russell)</caption></figure></section>
 <section id="fs-idp37285968">
@@ -109,11 +109,14 @@
 </exercise>
 <exercise id="fs-idp17951280">
 <problem id="fs-idp57355952">
-<para id="fs-idp10212256">Which of the statements about biofilms is correct?</para><list id="fs-idm37502640" list-type="enumerated" number-style="lower-alpha"><item>Biofilms are considered responsible for diseases such as cystic fibrosis.</item>
+<para id="fs-idp10212256">Which of the statements about biofilms is incorrect?</para>
+<list id="fs-idm37502640" list-type="enumerated" number-style="lower-alpha">
+<item>Biofilms are considered responsible for diseases such as cystic fibrosis.</item>
 <item>Biofilms produce dental plaque, and colonize catheters and prostheses.</item>
 <item>Biofilms colonize open wounds and burned tissue.</item>
-<item>All statements are correct.</item>
-</list></problem>
+<item>All statements are incorrect.</item>
+</list>
+</problem>
 <solution id="fs-idm20314112">
 <label/>
 <para id="fs-idp60956016">D</para>
@@ -123,7 +126,7 @@
 <problem id="fs-idm23890192">
 <para id="fs-idp15263296">Which of these statements is true?</para>
 <list id="fs-idm28233360" list-type="enumerated" number-style="lower-alpha">
-<item>An antibiotic is any substance produced by an organism that is antagonistic to the growth of prokaryotes.</item>
+<item>An antibiotic is any substance produced by a organism that is antagonistic to the growth of prokaryotes.</item>
 <item>An antibiotic is any substance produced by a prokaryote that is antagonistic to the growth of other viruses.</item>
 <item>An antibiotic is any substance produced by a prokaryote that is antagonistic to the growth of eukaryotic cells.</item>
 <item>An antibiotic is any substance produced by a prokaryote that prevents growth of the same prokaryote.</item>
@@ -187,7 +190,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idm77247200">
 <term>antibiotic</term> <meaning id="fs-idp9555536">biological substance that, in low concentration, is antagonistic to the growth of prokaryotes</meaning>

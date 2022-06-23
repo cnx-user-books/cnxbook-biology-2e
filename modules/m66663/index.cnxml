@@ -3,12 +3,12 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66663</md:content-id>
   <md:title>Innate Immune Response</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe physical and chemical immune barriers</item>
 <item>Explain immediate and induced innate immune responses</item>
 <item>Discuss natural killer cells</item>
-<item>Describe major histocompatibility complex I molecules</item>
+<item>Describe major histocompatibility class I molecules</item>
 <item>Summarize how the proteins in a complement system function to destroy extracellular pathogens</item>
 </list></md:abstract>
   <md:uuid>b9af4731-9805-4b3c-abca-f604af5aff5e</md:uuid>
@@ -53,7 +53,7 @@
 </section>
 <section id="fs-idp90768352">
 <title>Natural Killer Cells</title>
-<para id="fs-idm41977392"><term>Lymphocytes</term> are leukocytes that are histologically identifiable by their large, darkly staining nuclei; they are small cells with very little cytoplasm, as shown in <link target-id="fig-ch42_01_05" document=""/>. Infected cells are identified and destroyed by <term>natural killer (NK) cells</term>, lymphocytes that can kill cells infected with viruses or tumor cells (abnormal cells that uncontrollably divide and invade other tissue). T cells and B cells of the adaptive immune system also are classified as lymphocytes. <term>T cells</term> are lymphocytes that mature in the thymus gland, and <term>B cells</term> are lymphocytes that mature in the bone marrow. NK cells identify intracellular infections, especially from viruses, by the altered expression of <term>major histocompatibility complex (MHC) I molecules</term> on the surface of infected cells. MHC I molecules are proteins on the surfaces of all nucleated cells, thus they are scarce on red blood cells and platelets which are non-nucleated. The function of MHC I molecules is to display fragments of proteins from the infectious agents within the cell to T cells; healthy cells will be ignored, while “non-self” or foreign proteins will be attacked by the immune system. MHC II molecules are found mainly on cells containing antigens (“non-self proteins”) and on lymphocytes. <term>MHC II molecules</term> interact with helper T cells to trigger the appropriate immune response, which may include the inflammatory response.</para>
+<para id="fs-idm41977392"><term>Lymphocytes</term> are leukocytes that are histologically identifiable by their large, darkly staining nuclei; they are small cells with very little cytoplasm, as shown in <link target-id="fig-ch42_01_05" document=""/>. Infected cells are identified and destroyed by <term>natural killer (NK) cells</term>, lymphocytes that can kill cells infected with viruses or tumor cells (abnormal cells that uncontrollably divide and invade other tissue). T cells and B cells of the adaptive immune system also are classified as lymphocytes. <term>T cells</term> are lymphocytes that mature in the thymus gland, and <term>B cells</term> are lymphocytes that mature in the bone marrow. NK cells identify intracellular infections, especially from viruses, by the altered expression of <term>major histocompatibility class (MHC) I molecules</term> on the surface of infected cells. MHC I molecules are proteins on the surfaces of all nucleated cells, thus they are scarce on red blood cells and platelets which are non-nucleated. The function of MHC I molecules is to display fragments of proteins from the infectious agents within the cell to T cells; healthy cells will be ignored, while “non-self” or foreign proteins will be attacked by the immune system. MHC II molecules are found mainly on cells containing antigens (“non-self proteins”) and on lymphocytes. <term>MHC II molecules</term> interact with helper T cells to trigger the appropriate immune response, which may include the inflammatory response.</para>
 <figure id="fig-ch42_01_05" class=" "><media id="fs-idp93386912" alt="Micrograph shows a round cell with a large nucleus.">
 <image mime-type="image/jpg" src="../../media/Figure_42_01_05.jpg" width="255"/>
 </media>
@@ -155,7 +155,7 @@
 <definition id="fs-idp56525088"><term>interferon</term> <meaning id="fs-idp234378832">cytokine that inhibits viral replication and modulates the immune response</meaning></definition>
 <definition id="fs-idm3420432"><term>lymphocyte</term> <meaning id="fs-idm10285392">leukocyte that is histologically identifiable by its large nuclei; it is a small cell with very little cytoplasm</meaning></definition>
 <definition id="fs-idp83283104"><term>macrophage</term> <meaning id="fs-idp127919616">large phagocytic cell that engulfs foreign particles and pathogens</meaning></definition>
-<definition id="fs-idm172807968"><term>major histocompatibility complex (MHC) I/II molecule</term> <meaning id="fs-idp77246992">protein found on the surface of all nucleated cells (I) or specifically on antigen-presenting cells (II) that signals to immune cells whether the cell is healthy/normal or is infected/cancerous; it provides the appropriate template into which antigens can be loaded for recognition by lymphocytes</meaning></definition>
+<definition id="fs-idm172807968"><term>major histocompatibility class (MHC) I/II molecule</term> <meaning id="fs-idp77246992">protein found on the surface of all nucleated cells (I) or specifically on antigen-presenting cells (II) that signals to immune cells whether the cell is healthy/normal or is infected/cancerous; it provides the appropriate template into which antigens can be loaded for recognition by lymphocytes</meaning></definition>
 <definition id="fs-idp4291456"><term>mast cell</term> <meaning id="fs-idp7082784">leukocyte that produces inflammatory molecules, such as histamine, in response to large pathogens and allergens</meaning></definition>
 <definition id="fs-idp126052608"><term>monocyte</term> <meaning id="fs-idm45081840">type of white blood cell that circulates in the blood and lymph and differentiates into macrophages after it moves into infected tissue</meaning></definition>
 <definition id="fs-idp8326144"><term>natural killer (NK) cell</term> <meaning id="fs-idm46618432">lymphocyte that can kill cells infected with viruses or tumor cells</meaning></definition>
