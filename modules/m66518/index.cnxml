@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66518</md:content-id>
   <md:title>Understanding Evolution</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe how scientists developed the present-day theory of evolution</item>
 <item>Define adaptation</item>
@@ -61,7 +61,7 @@
 <title>Evidence of Evolution</title>
 <para id="fs-idm45573264">The evidence for evolution is compelling and extensive. Looking at every level of organization in living systems, biologists see the signature of past and present evolution. Darwin dedicated a large portion of his book, <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis>, to identifying patterns in nature that were consistent with evolution, and since Darwin, our understanding has become clearer and broader.</para><section id="fs-idm50233312">
 <title>Fossils</title>
-<para id="fs-idp177502144">Fossils provide solid evidence that organisms from the past are not the same as those today, and fossils show the gradual evolutionary changes over time. Scientists determine the age of fossils and categorize them from all over the world to determine when the organisms lived relative to each other. The resulting fossil record tells the story of the past and shows the evolution of form over millions of years (<link target-id="fig-ch18_01_05" document=""/>). For example, scientists have recovered highly detailed records showing the evolution of humans and horses (<link target-id="fig-ch18_01_05" document=""/>). The whale flipper shares a similar morphology to bird and mammal appendages (<link target-id="fig-ch18_01_06" document=""/>) indicating that these species share a common ancestor.</para>
+<para id="fs-idp177502144">Fossils provide solid evidence that organisms from the past are not the same as those today, and fossils show a progression of evolution. Scientists determine the age of fossils and categorize them from all over the world to determine when the organisms lived relative to each other. The resulting fossil record tells the story of the past and shows the evolution of form over millions of years (<link target-id="fig-ch18_01_05" document=""/>). For example, scientists have recovered highly detailed records showing the evolution of humans and horses (<link target-id="fig-ch18_01_05" document=""/>). The whale flipper shares a similar morphology to bird and mammal appendages (<link target-id="fig-ch18_01_06" document=""/>) indicating that these species share a common ancestor.</para>
 <figure id="fig-ch18_01_05"><media id="fs-idp1185712" alt="Photo A shows a museum display of hominid skulls that vary in size and shape. Illustration B shows five extinct species related and similar in appearance to the modern horse. The species vary in size from that of a modern horse to that of a medium-sized dog.">
 <image mime-type="image/jpg" src="../../media/Figure_18_01_05.jpg" width="480"/>
 </media>
@@ -75,9 +75,9 @@
 </media>
 <caption>The similar construction of these appendages indicates that these organisms share a common ancestor.</caption>
 </figure>
-<para id="fs-idm35706112">Some structures exist in organisms that have no apparent function at all, and appear to be residual parts from a past common ancestor. We call these unused structures without function <term>vestigial structures</term>. Other examples of vestigial structures are wings on flightless birds, leaves on some cacti, and hind leg bones in whales. Not all similarities represent homologous structures. As explained in <link document="m66531">Determining Evolutionary Relationships</link>, when similar characteristics occur because of environmental constraints and not due to a close evolutionary relationship, it is an analogy or homoplasy. For example, insects use wings to fly like bats and birds, but the wing structure and embryonic origin are completely different. These are analogous structures (<link target-id="fig-ch20_02_02abc" document="m66531"/>).</para>
+<para id="fs-idm35706112">Some structures exist in organisms that have no apparent function at all, and appear to be residual parts from a past common ancestor. We call these unused structures without function <term>vestigial structures</term>. Other examples of vestigial structures are wings on flightless birds, leaves on some cacti, and hind leg bones in whales.</para>
 <note id="fs-idp129618288" class="interactive"><label/><title>Link to Learning</title>
-<para id="fs-idp120562304">Watch this <link window="new" url="http://openstax.org/l/bone_structures">video</link> exploring the bones in the human body. </para></note>
+<para id="fs-idp120562304">Visit this <link window="new" url="http://openstax.org/l/bone_structures">interactive site</link> to guess which bone structures are homologous and which are analogous, and see examples of evolutionary adaptations to illustrate these concepts.</para></note>
 <para id="fs-idm18168368">Another evidence of evolution is the convergence of form in organisms that share similar environments. For example, species of unrelated animals, such as the arctic fox and ptarmigan, living in the arctic region have been selected for seasonal white phenotypes during winter to blend with the snow and ice (<link target-id="fig-ch18_01_07" document=""/>). These similarities occur not because of common ancestry, but because of similar selection pressures—the benefits of predators not seeing them.</para>
 <figure id="fig-ch18_01_07"><media id="fs-idp82149424" alt="The left photo depicts an arctic fox with white fur sleeping on white snow, and the right photo shows a ptarmigan bird with white plumage standing on white snow.">
 <image mime-type="image/jpg" src="../../media/Figure_18_01_07ab.jpg" width="400"/>
@@ -225,7 +225,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idm45480192">
 <term>adaptation</term> <meaning id="fs-idp26468464">heritable trait or behavior in an organism that aids in its survival and reproduction in its present environment</meaning>

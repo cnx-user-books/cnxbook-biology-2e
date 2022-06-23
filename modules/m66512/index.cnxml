@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66512</md:content-id>
   <md:title>Mapping Genomes</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Define genomics</item>
 <item>Describe genetic and physical maps</item>
@@ -42,11 +42,9 @@
 <note id="fs-id1293715" class="scientific"><label/><title>Scientific Method Connection</title>
 <para id="eip-id1163934695107"><title>How to Use a Genome Map Viewer</title>
 </para>
-<para id="fs-id2685435"><emphasis effect="bold">Problem statement</emphasis>: Do the human, macaque, and mouse genomes contain common DNA sequences?</para>
-<para id="fs-id1956957"><emphasis effect="bold">Develop a hypothesis.</emphasis></para>
-<para id="fs-id2746225">Go to <link url="https://openstax.org/l/GeneINSR">this website</link> to test the hypothesis.</para>
-<para id="fs-id1631652">The web page displays the comparison of the gene sequences of many organisms to the Human Insulin Receptor gene. Explore the type of information provided, select the groups of organisms needed for testing of the hypothesis from the top portion of the displayed data. Focus the attention to the bottom part, the Selected Orthologues. Explore which columns are relevant to the needed information.</para>
-<para id="fs-id1879663">On the same page, there are other options to explore, not all are necessary for the task, however it might give more insight to the value of genome/gene comparisons.</para></note>
+<para id="fs-id2685435">Problem statement: Do the human, macaque, and mouse genomes contain common DNA sequences?</para>
+<para id="fs-id1956957">Develop a hypothesis.</para>
+<para id="fs-id2746225">Go to <link url="https://openstax.org/l/GeneINSR">this website</link> to test the hypothesis.</para><para id="fs-id1631652">The web page displays the comparison of the gene sequences of many organisms to the Human Insulin Receptor gene. Explore the type of information provided, select the groups of organisms needed for testing of the hypothesis from the top portion of the displayed data. Focus the attention to the bottom part, the Selected Orthologues. Explore which columns are relevant to the needed information.</para><para id="fs-id1879663">On the same page, there are other options to explore, not all are necessary for the task, however it might give more insight to the value of genome/gene comparisons.</para></note>
 <note id="fs-id1550132" class="interactive"><label/><title>Link to Learning</title>
 <para id="fs-id1465546">Online Mendelian Inheritance in Man (OMIM) is a searchable online catalog of human genes and genetic disorders. This website shows genome mapping information, and also details the history and research of each trait and disorder. Click this <link window="new" url="http://openstax.org/l/OMIM">link</link> to search for traits (such as handedness) and genetic disorders (such as diabetes).</para>
 </note>
@@ -130,7 +128,7 @@
 <para id="fs-id1961664">A human genetic map can help identify genetic markers and sequences associated with high cancer risk, which can help to screen and provide early detection of different types of cancer.</para>
 </solution></exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1951339"><term>cytogenetic mapping</term> <meaning id="fs-id3191508">technique that uses a microscope to create a map from stained chromosomes</meaning></definition>
 <definition id="fs-id1786415"><term>expressed sequence tag (EST)</term> <meaning id="fs-id1448124">short STS that is identified with cDNA</meaning></definition>

@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66479</md:content-id>
   <md:title>Control of the Cell Cycle</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Understand how the cell cycle is controlled by mechanisms that are both internal and external to the cell</item>
 <item>Explain how the three internal “control checkpoints” occur at the end of G<sub>1</sub>, at the G<sub>2</sub>/M transition, and during metaphase</item>
@@ -192,7 +192,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1418108"><term>cell-cycle checkpoint</term> <meaning id="fs-id2629926">mechanism that monitors the preparedness of a eukaryotic cell to advance through the various cell-cycle stages</meaning></definition>
 <definition id="fs-id2227932"><term>cyclin</term> <meaning id="fs-id1778542">one of a group of proteins that act in conjunction with cyclin-dependent kinases to help regulate the cell cycle by phosphorylating key proteins; the concentrations of cyclins fluctuate throughout the cell cycle</meaning></definition>

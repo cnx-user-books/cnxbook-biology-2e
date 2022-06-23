@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66520</md:content-id>
   <md:title>Formation of New Species</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Define species and describe how scientists identify species as different</item>
 <item>Describe genetic variables that lead to speciation</item>
@@ -35,7 +35,7 @@
 <section id="fs-idm107227808">
 <title>Speciation</title>
 <para id="fs-idm99888736">The biological definition of species, which works for sexually reproducing organisms, is a group of actual or potential interbreeding individuals. There are exceptions to this rule. Many species are similar enough that hybrid offspring are possible and may often occur in nature, but for the majority of species this rule generally holds. The presence in nature of hybrids between similar species suggests that they may have descended from a single interbreeding species, and the speciation process may not yet be completed.</para>
-<para id="fs-idm101597488">Given the extraordinary diversity of life on the planet there must be mechanisms for <term>speciation</term>: the formation of two species from one original species. Darwin envisioned this process as a branching event and diagrammed the process in the only illustration in <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis> (<link target-id="fig-ch18_02_03" document=""/>a). Compare this illustration to the diagram of elephant evolution (<link target-id="fig-ch18_02_03" document=""/>), which shows that as one species changes over time, it branches to form more than one new species, repeatedly, as long as the population survives or until the organism becomes extinct.</para>
+<para id="fs-idm101597488">Given the extraordinary diversity of life on the planet there must be mechanisms for <term>speciation</term>: the formation of two species from one original species. Darwin envisioned this process as a branching event and diagrammed the process in the only illustration in <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis> (<link target-id="fig-ch18_02_03" document=""/><emphasis effect="bold">a</emphasis>). Compare this illustration to the diagram of elephant evolution (<link target-id="fig-ch18_02_03" document=""/>), which shows that as one species changes over time, it branches to form more than one new species, repeatedly, as long as the population survives or until the organism becomes extinct.</para>
 <figure id="fig-ch18_02_03"><media id="fs-idm103229696" alt="Image (a) shows a sketch of lines branching into a tree shape. At the bottom are 11 vertical lines labeled A through L. These then are branched out as they move up across the page through fourteen rows labeled with Roman numerals. Some branches make a straight line from the bottom row to the top row, others keep branching out further at each row, and some are straight partway through the rows until they connect to an existing branch or form no connection and instead stop. The top four rows each consists of a single line from a branch tip; there are 6 branch tips at row X I; to one of 15 individual final designations. Illustration B shows the evolution of modern African and Asian elephants from a common ancestor, the Palaeomastodon. The Palaeomastodon was similar to modern elephants; however, it was smaller and had a long nose instead of a trunk. Side branches of the elephant evolutionary tree gave rise to mastodons and mammoths. The mammoth is more closely related to modern elephants than the mastodon.">
 <image mime-type="image/jpg" src="../../media/Figure_18_02_03ab.jpg" width="525"/>
 </media>
@@ -64,7 +64,7 @@
 
 <caption>The honeycreeper birds illustrate adaptive radiation. From one original species of bird, multiple others evolved, each with its own distinctive characteristics.</caption></figure><para id="fs-idm147724608">Notice the differences in the species’ beaks in <link target-id="fig-ch18_02_05" document=""/>. Evolution in response to natural selection based on specific food sources in each new habitat led to evolution of a different beak suited to the specific food source. The seed-eating bird has a thicker, stronger beak which is suited to break hard nuts. The nectar-eating birds have long beaks to dip into flowers to reach the nectar. The insect-eating birds have beaks like swords, appropriate for stabbing and impaling insects. Darwin’s finches are another example of adaptive radiation in an archipelago.</para>
 <note id="fs-idm19803040" class="interactive"><label/><title>Link to Learning</title>
-<para id="fs-idm1483088">Watch this <link window="new" url="http://openstax.org/l/bird_evolution">video</link> to see how scientists use evidence to understand how birds evolved.</para></note></section>
+<para id="fs-idm1483088">Click through this <link window="new" url="http://openstax.org/l/bird_evolution">interactive site</link> to see how island birds evolved in evolutionary increments from 5 million years ago to today.</para></note></section>
 </section>
 <section id="fs-idm74920656">
 <title>Sympatric Speciation</title>
@@ -263,7 +263,7 @@
 <solution id="fs-idm96376976"><label/>
 <para id="fs-idp13077824">The formation of gametes with new <emphasis effect="italics">n</emphasis> numbers can occur in one generation. After a couple of generations, enough of these new hybrids can form to reproduce together as a new species.</para></solution></exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idm105504672"><term>adaptive radiation</term> <meaning id="fs-idm98048736">speciation when one species radiates to form several other species</meaning></definition>
 <definition id="fs-idm83812656"><term>allopatric speciation</term> <meaning id="fs-idm62451936">speciation that occurs via geographic separation</meaning></definition>

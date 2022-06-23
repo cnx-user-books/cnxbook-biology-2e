@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66498</md:content-id>
   <md:title>Prokaryotic Transcription</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>List the different steps in prokaryotic transcription</item>
 <item>Discuss the role of promoters in prokaryotic transcription</item>
 <item>Describe how and when transcription is terminated</item>
@@ -30,7 +31,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_15_02_01.jpg" width="350"/>
 </media>
 <caption>The <emphasis effect="italics">σ</emphasis> subunit of prokaryotic RNA polymerase recognizes consensus sequences found in the promoter region upstream of the transcription start site. The <emphasis effect="italics">σ</emphasis> subunit dissociates from the polymerase after transcription has been initiated.</caption></figure><note id="fs-id889157" class="interactive"><label/><title>Link to Learning</title>
-<para id="fs-id1292460">View this <link window="new" url="http://openstax.org/l/transcription">MolecularMovies animation</link> to see the transcription process as it happens in the cell.</para>
+<para id="fs-id1292460">View this <link window="new" url="http://openstax.org/l/transcription">MolecularMovies animation</link> to see the first part of transcription and the base sequence repetition of the TATA box.</para>
 </note></section>
 </section>
 <section id="fs-id1298841">
@@ -45,7 +46,7 @@
 <figure id="fig-ch15_02_03"><media id="fs-id1260172" alt="Illustration shows multiple m R N As transcribed off one gene. Ribosomes attach to the m R N A before transcription is complete and begin to make protein.">
 <image mime-type="image/jpg" src="../../media/Figure_15_02_03.jpg" width="350"/>
 </media>
-<caption>Multiple polymerases can transcribe a single bacterial gene while numerous ribosomes concurrently translate the mRNA transcripts into polypeptides. In this way, a specific protein can rapidly reach a high concentration in the bacterial cell.</caption></figure><note id="fs-id2626015" class="interactive"><label/><title>Link to Learning</title>
+<caption>Multiple polymerases can transcribe a single bacterial gene while numerous ribosomes concurrently translate the mRNA transcripts into polypeptides. In this way, a specific protein can rapidly reach a high concentration in the bacterial cell.</caption></figure><note id="fs-id2626015" class="interactive"><label/><title>Link to Learning</title> 
 <para id="fs-id2701078">Visit this <link window="new" url="http://openstax.org/l/transcription2"> BioStudio animation</link> to see the process of prokaryotic transcription.</para>
 </note></section>
 <section id="fs-id2316839" class="summary"> <title>Section Summary</title><para id="fs-id1265785">In prokaryotes, mRNA synthesis is initiated at a promoter sequence on the DNA template comprising two consensus sequences that recruit RNA polymerase. The prokaryotic polymerase consists of a core enzyme of four protein subunits and a <emphasis effect="italics">σ</emphasis> protein that assists only with initiation. Elongation synthesizes mRNA in the 5' to 3' direction at a rate of 40 nucleotides per second. Termination liberates the mRNA and occurs either by rho protein interaction or by the formation of an mRNA hairpin.</para>
@@ -142,8 +143,8 @@
  By examining the DNA sequence, we can see that there is a -10 consensus sequence near the 3’ end of the fragment. If we then count downstream, the +1 initiation site is the T immediately following the sequence AAT. This means the DNA fragment that will serve as the template for transcription has the sequence TGATAGAAGCACTCTAC. The mRNA made from this template will have complimentary base pairing with uracil (U) instead of thymine (T). This gives us ACUAUCUUCGUGAGAUG as the transcribed mRNA sequence.
  </para>
 </solution>
-</exercise></section>
- </content>
+</exercise></section> 
+</content>
 <glossary>
 <definition id="fs-id1414556"><term>consensus</term> <meaning id="fs-id1454273">DNA sequence that is used by many species to perform the same or similar functions</meaning></definition>
 <definition id="fs-id1423662"><term>core enzyme</term> <meaning id="fs-id1262355">prokaryotic RNA polymerase consisting of <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis>, and <emphasis effect="italics">β</emphasis>' but missing <emphasis effect="italics">σ</emphasis>; this complex performs elongation</meaning></definition>

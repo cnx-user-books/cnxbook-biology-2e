@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66508</md:content-id>
   <md:title>Eukaryotic Translational and Post-translational Gene Regulation</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Understand the process of translation and discuss its key factors</item>
 <item>Describe how the initiation complex controls translation</item>
@@ -31,7 +31,7 @@
 <title>Chemical Modifications, Protein Activity, and Longevity</title>
 <para id="fs-id3321766">Proteins can be chemically modified with the addition of groups including methyl, phosphate, acetyl, and ubiquitin groups. The addition or removal of these groups from proteins regulates their activity or the length of time they exist in the cell. Sometimes these modifications can regulate where a protein is found in the cell—for example, in the nucleus, in the cytoplasm, or attached to the plasma membrane.</para>
 <para id="fs-id2080792">Chemical modifications occur in response to external stimuli such as stress, the lack of nutrients, heat, or ultraviolet light exposure. These changes can alter epigenetic accessibility, transcription, mRNA stability, or translation—all resulting in changes in expression of various genes. This is an efficient way for the cell to rapidly change the levels of specific proteins in response to the environment.  Because proteins are involved in every stage of gene regulation, the phosphorylation of a protein (depending on the protein that is modified) can alter accessibility to the chromosome, can alter translation (by altering transcription factor binding or function), can change nuclear shuttling (by influencing modifications to the nuclear pore complex), can alter RNA stability (by binding or not binding to the RNA to regulate its stability), can modify translation (increase or decrease), or can change post-translational modifications (add or remove phosphates or other chemical modifications).</para>
-<para id="fs-id3327902"> The addition of a ubiquitin group to a protein marks that protein for degradation. Ubiquitin acts like a flag indicating that the protein lifespan is complete. These proteins are moved to the <term>proteasome</term>, an organelle that functions to remove proteins, to be degraded (<link target-id="fig-ch16_06_02" document=""/>). One way to control gene expression, therefore, is to alter the longevity of the protein.</para>
+<para id="fs-id3327902"> The addition of an ubiquitin group to a protein marks that protein for degradation. Ubiquitin acts like a flag indicating that the protein lifespan is complete. These proteins are moved to the <term>proteasome</term>, an organelle that functions to remove proteins, to be degraded (<link target-id="fig-ch16_06_02" document=""/>). One way to control gene expression, therefore, is to alter the longevity of the protein.</para>
 <figure id="fig-ch16_06_02"><media id="fs-id2304651" alt="Multiple ubiquitin groups combine to bind to a protein. The tagged protein is then fed into the hollow tube of a proteasome. The proteasome degrades the protein. This produces ADP and amino acids, and the ubiquitin is also released.">
 <image mime-type="image/png" src="../../media/Figure_16_06_02.png" width="500"/>
 </media>
@@ -111,7 +111,7 @@
   </para>
 </solution>
 </exercise></section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1452415"><term>eukaryotic initiation factor-2 (eIF-2)</term> <meaning id="fs-id1695712">protein that binds first to an mRNA to initiate translation</meaning></definition>
 <definition id="fs-id2956204"><term>guanine diphosphate (GDP)</term> <meaning id="fs-id1843522"> molecule that is left after the energy is used to start translation</meaning></definition>

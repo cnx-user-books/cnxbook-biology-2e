@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66509</md:content-id>
   <md:title>Cancer and Gene Regulation</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe how changes to gene expression can cause cancer</item>
 <item>Explain how changes to gene expression at different levels can disrupt the cell cycle</item>
@@ -19,7 +19,7 @@
 <section id="fs-id1775261">
 <title>Cancer: Disease of Altered Gene Expression</title>
 <para id="fs-id1772073">Cancer can be described as a disease of altered gene expression. There are many proteins that are turned on or off (gene activation or gene silencing) that dramatically alter the overall activity of the cell. A gene that is not normally expressed in that cell can be switched on and expressed at high levels. This can be the result of gene mutation or changes in gene regulation (epigenetic, transcription, post-transcription, translation, or post-translation).</para>
-<para id="fs-id1568624">Changes in epigenetic regulation, transcription, RNA stability, protein translation, and post-translational control can be detected in cancer. While these changes don’t occur simultaneously in one cancer, changes at each of these levels can be detected when observing cancer at different sites in different individuals. Therefore, changes in <term>histone acetylation</term> (epigenetic modification that leads to gene expression), activation of transcription factors by phosphorylation, increased RNA stability, increased translational control, and protein modification can all be detected at some point in various cancer cells. Scientists are working to understand the common changes that give rise to certain types of cancer or how a modification might be exploited to destroy a tumor cell.</para>
+<para id="fs-id1568624">Changes in epigenetic regulation, transcription, RNA stability, protein translation, and post-translational control can be detected in cancer. While these changes don’t occur simultaneously in one cancer, changes at each of these levels can be detected when observing cancer at different sites in different individuals. Therefore, changes in <term>histone acetylation</term> (epigenetic modification that leads to gene silencing), activation of transcription factors by phosphorylation, increased RNA stability, increased translational control, and protein modification can all be detected at some point in various cancer cells. Scientists are working to understand the common changes that give rise to certain types of cancer or how a modification might be exploited to destroy a tumor cell.</para>
 <section id="fs-id1787656">
 <title>Tumor Suppressor Genes, Oncogenes, and Cancer</title>
 <para id="fs-id1524784">In normal cells, some genes function to prevent excess, inappropriate cell growth. These are tumor-suppressor genes, which are active in normal cells to prevent uncontrolled cell growth. There are many tumor-suppressor genes in cells. The most studied tumor-suppressor gene is p53, which is mutated in over 50 percent of all cancer types.  The p53 protein itself functions as a transcription factor. It can bind to sites in the promoters of genes to initiate transcription. Therefore, the mutation of p53 in cancer will dramatically alter the transcriptional activity of its target genes.</para>
@@ -101,10 +101,10 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1956507"><term>DNA methylation</term> <meaning id="fs-id1437861">epigenetic modification that leads to gene silencing; a process involving adding a methyl group to the DNA molecule</meaning></definition>
-<definition id="fs-id1766226"><term>histone acetylation</term> <meaning id="fs-id3061695">epigenetic modification that leads to gene expression; a process involving adding or removing an acetyl functional group</meaning></definition>
+<definition id="fs-id1766226"><term>histone acetylation</term> <meaning id="fs-id3061695">epigenetic modification that leads to gene silencing; a process involving adding or removing an acetyl functional group</meaning></definition>
 <definition id="fs-id1477108"><term>myc</term> <meaning id="fs-id1730700">oncogene that causes cancer in many cancer cells</meaning></definition>
 </glossary>
 </document>

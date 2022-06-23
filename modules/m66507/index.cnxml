@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66507</md:content-id>
   <md:title>Eukaryotic Post-transcriptional Gene Regulation</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Understand RNA splicing and explain its role in regulating gene expression</item>
 <item>Describe the importance of RNA stability in gene regulation</item>
@@ -127,7 +127,7 @@
 <para id="fs-id1894654">External stimuli can modify RNA-binding proteins (i.e., through phosphorylation of proteins) to alter their activity.</para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2025518"><term>3' UTR</term> <meaning id="fs-id1691113">3' untranslated region; region just downstream of the protein-coding region in an RNA molecule that is not translated</meaning></definition>
 <definition id="fs-id1167756837269"><term>5' cap</term><meaning id="fs-id1167746603325">a methylated guanosine triphosphate (GTP) molecule that is attached to the 5' end of a messenger RNA to protect the end from degradation</meaning></definition>
