@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66443</md:content-id>
   <md:title>Nucleic Acids</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe nucleic acids' structure and define the two types of nucleic acids</item>
 <item>Explain DNA's structure and role</item>
@@ -35,7 +35,7 @@
 </media>
 
 <caption>Native DNA is an antiparallel double helix. The phosphate backbone (indicated by the curvy lines) is on the outside, and the bases are on the inside. Each base from one strand interacts via hydrogen bonding with a base from the opposing strand. (credit: Jerome Walker/Dennis Myts)</caption></figure><para id="fs-id1769796">Only certain types of base pairing are allowed. For example, a certain purine can only pair with a certain pyrimidine. This means A can pair with T, and G can pair with C, as <link target-id="fig-ch03_05_03" document=""/> shows. This is the base complementary rule. In other words, the DNA strands are complementary to each other. If the sequence of one strand is AATTGGCC, the complementary strand would have the sequence TTAACCGG. During DNA replication, each strand copies itself, resulting in a daughter DNA double helix containing one parental DNA strand and a newly synthesized strand.</para>
-<note id="fs-id2321240" class="visual-connection"><label/><title>Visual Connection</title>
+<note id="fs-id2321240" type="visual-connection"><label/><title>Visual Connection</title>
 <para id="fs-id2098380">
 <figure id="fig-ch03_05_03"><media id="fs-id1707961" alt="Hydrogen bonding between thymine and adenine and between guanine and cytosine is shown. Thymine forms two hydrogen bonds with adenine, and guanine forms three hydrogen bonds with cytosine. The phosphate backbones of each strand are on the outside and run in opposite directions.">
 <image mime-type="image/png" src="../../media/Figure_03_05_03.png" width="350"/>
@@ -53,7 +53,7 @@
 </media>
 
 <caption>A ribosome has two parts: a large subunit and a small subunit. The mRNA sits in between the two subunits. A tRNA molecule recognizes a codon on the mRNA, binds to it by complementary base pairing, and adds the correct amino acid to the growing peptide chain.</caption></figure><para id="fs-id1813318">The mRNA is read in sets of three bases known as codons. Each codon codes for a single amino acid. In this way, the mRNA is read and the protein product is made. <term>Ribosomal RNA (rRNA)</term> is a major constituent of ribosomes on which the mRNA binds. The rRNA ensures the proper alignment of the mRNA and the Ribosomes. The ribosome's rRNA also has an enzymatic activity (peptidyl transferase) and catalyzes peptide bond formation between two aligned amino acids. <term>Transfer RNA (tRNA)</term> is one of the smallest of the four types of RNA, usually 70–90 nucleotides long. It carries the correct amino acid to the protein synthesis site. It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to insert itself in the polypeptide chain. MicroRNAs are the smallest RNA molecules and their role involves regulating gene expression by interfering with the expression of certain mRNA messages. <link target-id="tab-ch03-05-01" document=""/> summarizes DNA and RNA features.</para>
-<table id="tab-ch03-05-01" summary="" class="top-titled">
+<table id="tab-ch03-05-01" summary="">
 <tgroup cols="1">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
@@ -159,7 +159,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2138705"><term>deoxyribonucleic acid (DNA)</term> <meaning id="fs-id2046936">double-helical molecule that carries the cell's hereditary information</meaning></definition>
 <definition id="fs-id2570918"><term>messenger RNA (mRNA)</term> <meaning id="fs-id1957585">RNA that carries information from DNA to ribosomes during protein synthesis</meaning></definition>

@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66457</md:content-id>
   <md:title>Energy and Metabolism</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Explain metabolic pathways and describe the two major types</item>
 <item>Discuss how chemical reactions play a role in energy transfer</item>
@@ -19,8 +19,8 @@
 </figure>
 <section id="fs-id1380783">
 <title>Carbohydrate Metabolism</title>
-<para id="fs-id2308681">Sugar (a simple carbohydrate) metabolism (chemical reactions) is a classic example of the many cellular processes that use and produce energy. Living things consume sugar as a major energy source, because sugar molecules have considerable energy stored within their bonds. The following equation describes the breakdown of glucose, a simple sugar:</para>
-<equation class="unnumbered" id="eip-942"><m:math display="block">
+<para id="fs-id2308681">Sugar (chemical reactions) metabolism (a simple carbohydrate) is a classic example of the many cellular processes that use and produce energy. Living things consume sugar as a major energy source, because sugar molecules have considerable energy stored within their bonds. The following equation describes the breakdown of glucose, a simple sugar:</para>
+<equation id="eip-942"><m:math display="block">
 <m:semantics>
 <m:mrow>
 <m:msub>
@@ -60,7 +60,7 @@
 <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{6} } H rSub { size 8{12} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>
 </equation>
 <para id="fs-id1422858">Consumed carbohydrates have their origins in photosynthesizing organisms like plants (<link target-id="fig-ch06_01_02" document=""/>). During photosynthesis, plants use the energy of sunlight to convert carbon dioxide gas (CO<sub>2</sub>) into sugar molecules, like glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>). Because this process involves synthesizing a larger, energy-storing molecule, it requires an energy input to proceed. The following equation (notice that it is the reverse of the previous equation) describes the synthesis of glucose:</para>
-<equation class="unnumbered" id="eip-188"><m:math display="block">
+<equation id="eip-188"><m:math display="block">
 <m:semantics>
 <m:mrow>
 <m:msub>
@@ -114,7 +114,7 @@
 </media>
 <caption>This tree shows the evolution of the various branches of life. The vertical dimension is time. Early life forms, in blue, used anaerobic metabolism to obtain energy from their surroundings.</caption>
 </figure>
-<para id="fs-id1416306"><title>Evolution of Metabolic Pathways</title>There is more to the complexity of metabolism than understanding the metabolic pathways alone. Metabolic complexity varies from organism to organism. Photosynthesis is the primary pathway in which photosynthetic organisms like plants (planktonic algae perform the majority of global photosynthesis) harvest the sun’s energy and convert it into carbohydrates. The by-product of photosynthesis is oxygen, which some cells require to carry out cellular respiration. During cellular respiration, oxygen aids in the catabolic breakdown of carbon compounds, like carbohydrates. Among the products are CO<sub>2</sub> and ATP. In addition, some eukaryotes perform catabolic processes without oxygen (fermentation); that is, they perform or use anaerobic metabolism.</para>
+<para id="fs-id1416306"><title>Evolution of Metabolic Pathways</title>There is more to the complexity of metabolism than understanding the metabolic pathways alone. Metabolic complexity varies from organism to organism. Photosynthesis is the primary pathway in which photosynthetic organisms like plants (planktonic algae perform the majority of global synthesis) harvest the sun’s energy and convert it into carbohydrates. The by-product of photosynthesis is oxygen, which some cells require to carry out cellular respiration. During cellular respiration, oxygen aids in the catabolic breakdown of carbon compounds, like carbohydrates. Among the products are CO<sub>2</sub> and ATP. In addition, some eukaryotes perform catabolic processes without oxygen (fermentation); that is, they perform or use anaerobic metabolism.</para>
 <para id="fs-id1242559">Organisms probably evolved anaerobic metabolism to survive (living organisms came into existence about 3.8 billion years ago, when the atmosphere lacked oxygen). Despite the differences between organisms and the complexity of metabolism, researchers have found that all branches of life share some of the same metabolic pathways, suggesting that all organisms evolved from the same ancient common ancestor (<link target-id="fig-ch06_01_03" document=""/>). Evidence indicates that over time, the pathways diverged, adding specialized enzymes to allow organisms to better adapt to their environment, thus increasing their chance to survive. However, the underlying principle remains that all organisms must harvest energy from their environment and convert it to ATP to carry out cellular functions.</para>
 </note>
 <section id="fs-id1702822">
@@ -182,7 +182,7 @@
 <para id="fs-id2026241">Energy is required for cellular motion, through beating of cilia or flagella, as well as human motion, produced by muscle contraction. Cells also need energy to perform digestion, as humans require energy to digest food.</para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2187720"><term>anabolic</term> <meaning id="fs-id1999359">(also, anabolism) pathways that require an energy input to synthesize complex molecules from simpler ones</meaning></definition>
 <definition id="fs-id1455544"><term>bioenergetics</term> <meaning id="fs-id1760853">study of energy flowing through living systems</meaning></definition>

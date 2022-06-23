@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66459</md:content-id>
   <md:title>Potential, Kinetic, Free, and Activation Energy</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Define “energy”</item>
 <item>Explain the difference between kinetic and potential energy</item>
 <item>Discuss the concepts of free energy and activation energy</item>
@@ -33,8 +34,9 @@
 </section>
 <section id="fs-id1366956">
 <title>Free Energy</title>
-<para id="fs-id2051640">After learning that chemical reactions release energy when energy-storing bonds break, an important next question is how do we quantify and express the chemical reactions with the associated energy? How can we compare the energy that releases from one reaction to that of another reaction? We use a measurement of <term>free energy</term> to quantitate these energy transfers. Scientists call this free energy Gibbs free energy (abbreviated with the letter G) after Josiah Willard Gibbs, the scientist who developed the measurement. According to the second law of thermodynamics, all energy transfers involve losing some energy in an unusable form such as heat, resulting in entropy. Gibbs free energy specifically refers to the energy that takes place with a chemical reaction that is available after we account for entropy. In other words, Gibbs free energy is usable energy, or energy that is available to do work.</para><para id="fs-id1896127">Every chemical reaction involves a change in free energy, called delta G (∆G). We can calculate the change in free energy for any system that undergoes such a change, such as a chemical reaction. To calculate ∆G, subtract the amount of energy lost to entropy (denoted as ∆S) from the system's total energy change. The total energy in the system is <term>enthalpy</term> and we denote it as ∆H. The formula for calculating ∆G is as follows, where the symbol T refers to absolute temperature in Kelvin (degrees Celsius + 273):</para>
-<equation id="eip-327" class="unnumbered">
+<para id="fs-id2051640">After learning that chemical reactions release energy when energy-storing bonds break, an important next question is how do we quantify and express the chemical reactions with the associated energy? How can we compare the energy that releases from one reaction to that of another reaction? We use a measurement of <term>free energy</term> to quantitate these energy transfers. Scientists call this free energy Gibbs free energy (abbreviated with the letter G) after Josiah Willard Gibbs, the scientist who developed the measurement. Recall that according to the second law of thermodynamics, all energy transfers involve losing some energy in an unusable form such as heat, resulting in entropy. Gibbs free energy specifically refers to the energy that takes place with a chemical reaction that is available after we account for entropy. In other words, Gibbs free energy is usable energy, or energy that is available to do work.</para>
+<para id="fs-id1896127">Every chemical reaction involves a change in free energy, called delta G (∆G). We can calculate the change in free energy for any system that undergoes such a change, such as a chemical reaction. To calculate ∆G, subtract the amount of energy lost to entropy (denoted as ∆S) from the system's total energy change. Scientists call this total energy change in the system <term>enthalpy</term> and we denote it as ∆H. The formula for calculating ∆G is as follows, where the symbol T refers to absolute temperature in Kelvin (degrees Celsius + 273):</para>
+<equation id="eip-327">
 <m:math display="block">
 <m:mrow>
 <m:mi>Δ</m:mi><m:mtext>G</m:mtext><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mtext>H</m:mtext><m:mo>−</m:mo><m:mtext>T</m:mtext><m:mi>Δ</m:mi><m:mtext>S</m:mtext>
@@ -58,13 +60,10 @@
 </note>
 <para id="fs-id1485321">An important concept in studying metabolism and energy is that of chemical equilibrium. Most chemical reactions are reversible. They can proceed in both directions, releasing energy into their environment in one direction, and absorbing it from the environment in the other direction (<link target-id="fig-ch06_02_04" document=""/>). The same is true for the chemical reactions involved in cell metabolism, such as the breaking down and building up of proteins into and from individual amino acids, respectively. Reactants within a closed system will undergo chemical reactions in both directions until they reach a state of equilibrium, which is one of the lowest possible free energy and a state of maximal entropy. To push the reactants and products away from a state of equilibrium requires energy. Either reactants or products must be added, removed, or changed. If a cell were a closed system, its chemical reactions would reach equilibrium, and it would die because there would be insufficient free energy left to perform the necessary work to maintain life. In a living cell, chemical reactions are constantly moving towards equilibrium, but never reach it. This is because a living cell is an open system. Materials pass in and out, the cell recycles the products of certain chemical reactions into other reactions, and there is never chemical equilibrium. In this way, living organisms are in a constant energy-requiring, uphill battle against equilibrium and entropy. This constant energy supply ultimately comes from sunlight, which produces nutrients in the photosynthesis process.</para>
 <figure id="fig-ch06_02_04" class=" "><media id="fs-id1769482" alt="The two plots show the change in Gibbs free energy as reactants are converted to products. Gibbs free energy decreases with time for an exergonic reaction (left), and the reaction is spontaneous. Gibbs free energy increases with time for an endergonic reaction (right), and the reaction is not spontaneous.">
-<image mime-type="image/jpg" src="../../media/Figure_06_03_03.jpg"/>
+<image mime-type="image/jpg" src="../../media/Figure_06_03_03.jpg" width="550"/>
 </media>
 
-<caption>Exergonic and endergonic reactions result in changes in Gibbs free energy (G). Exergonic reactions have a net release of energy and are
-spontaneous reactions. Endergonic reactions require an input of energy to proceed and are nonspontaneous reactions. Both Exergonic and endergonic
-reactions require initial activation energy for the reaction to occur.Credit: Tag, A., Rao, A., Fletcher, S. and Ryan, A. Department of Biology, Texas A&amp;M
-University.</caption></figure></section>
+<caption>Exergonic and endergonic reactions result in changes in Gibbs free energy. Exergonic reactions release energy. Endergonic reactions require energy to proceed.</caption></figure></section>
 </section>
 <section id="fs-id1242632">
 <title>Activation Energy</title>
@@ -94,11 +93,11 @@ University.</caption></figure></section>
 <section id="fs-idp22423600" class="visual-exercise">
 <title>Visual Connection Questions</title>
 <exercise id="fs-idm57896784"><problem id="fs-id1970779">
-<para id="fs-idp55181168"> <link target-id="fig-ch06_02_03"/> Look at each of the processes, and decide if it is endergonic or exergonic. In each case, does enthalpy increase or decrease, and does entropy increase or decrease?</para>
+<para id="fs-idp55181168"> <link target-id="fig-ch06_02_03" document=""/> Look at each of the processes, and decide if it is endergonic or exergonic. In each case, does enthalpy increase or decrease, and does entropy increase or decrease?</para>
 </problem>
 <solution id="fs-id1772383">
 <label/>
-<para id="fs-id1404899"><link target-id="fig-ch06_02_03" document=""/> A compost pile decomposing is an exergonic process; enthalpy decreases (energy is released) and entropy increases (large molecules are broken down into smaller ones). A baby developing from a fertilized egg is an endergonic process; enthalpy increases (energy is absorbed) and entropy decreases. Sand art being destroyed is an exergonic process; there is no change in enthalpy, but entropy increases. A ball rolling downhill is an exergonic process; enthalpy decreases (energy is released), but there is no change in entropy.</para></solution>
+<para id="fs-id1404899"><link target-id="fig-ch06_02_03" document=""/> A compost pile decomposing is an exergonic process; enthalpy increases (energy is released) and entropy increases (large molecules are broken down into smaller ones). A baby developing from a fertilized egg is an endergonic process; enthalpy decreases (energy is absorbed) and entropy decreases. Sand art being destroyed is an exergonic process; there is no change in enthalpy, but entropy increases. A ball rolling downhill is an exergonic process; enthalpy decreases (energy is released), but there is no change in entropy.</para></solution>
 </exercise><exercise id="fs-idp41379504"><problem id="fs-id2078828">
 <para id="fs-idp66710416"> <link target-id="fig-ch06_02_05" document=""/> If no activation energy were required to break down sucrose (table sugar), would you be able to store it in a sugar bowl?</para>
 </problem>
@@ -169,7 +168,7 @@ University.</caption></figure></section>
 <para id="fs-id2187832">The transition state is always higher in energy than the reactants and the products of a reaction (therefore, above), regardless of whether the reaction is endergonic or exergonic.</para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1286063"><term>activation energy</term> <meaning id="fs-id1635254">energy necessary for reactions to occur</meaning></definition>
 <definition id="fs-id1433263"><term>chemical energy</term> <meaning id="fs-id1519767">potential energy in chemical bonds that releases when those bonds are broken</meaning></definition>

@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66477</md:content-id>
   <md:title>Cell Division</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Describe the structure of prokaryotic and eukaryotic genomes</item>
 <item>Distinguish between chromosomes, genes, and traits</item>
 <item>Describe the mechanisms of chromosome compaction</item>
@@ -32,14 +33,10 @@
 <para id="fs-id1393700">In the first level of compaction, short stretches of the DNA double helix wrap around a core of eight <term>histone proteins</term> at regular intervals along the entire length of the chromosome (<link target-id="fig-ch10_01_03" document=""/>). The DNA-histone complex is called chromatin. The beadlike, histone DNA complex is called a <term>nucleosome</term>, and DNA connecting the nucleosomes is called linker DNA. A DNA molecule in this form is about seven times shorter than the double helix without the histones, and the beads are about 10 nm in diameter, in contrast with the 2-nm diameter of a DNA double helix.</para>
 <para id="fs-id1373700">The second level of compaction occurs as the nucleosomes and the linker DNA between them coil into a 30-nm chromatin fiber. This coiling further <emphasis effect="italics">condenses</emphasis> the chromosome so that it is now about 50 times shorter than the extended form.</para>
 <para id="fs-id1373701">In the third level of compaction, a variety of <emphasis effect="italics">fibrous proteins</emphasis> is used to “pack the chromatin.” These fibrous proteins also ensure that each chromosome in a non-dividing cell occupies a particular area of the nucleus that does not overlap with that of any other chromosome (see the top image in <link target-id="fig-ch10_01_02" document=""/>).</para>
-<figure id="fig-ch10_01_03"><media id="fs-id2195071" alt="A detail of a nucleosme shows 8 Histone proteins and 146 or 147 Nucleotide Base pairs; they are connected by a linker region to the Amino tail of the histone protein.   Then, several levels of magnification reveal details of DNA.   A D N A double helix is about 2 nanometers wide.  The double helix wraps around proteins called histones to form nucleosomes. The entire D N A molecule wraps around many histones, creating the appearance of beads on a string in the radial loop domains and heterochromatin.  The chromatin fiber further condenses into the chromosome at about 1400 nanometers wide.">
-<image mime-type="image/jpg" src="../../media/Figure_10_01_03.jpg"/>
+<figure id="fig-ch10_01_03"><media id="fs-id2195071" alt="There are five levels of chromosome organization. From top to bottom: The top panel shows a D N A double helix. The second panel shows the double helix wrapped around proteins called histones. The middle panel shows the entire D N A molecule wrapping around many histones, creating the appearance of beads on a string. The fourth panel shows that the chromatin fiber further condenses into the chromosome shown in the bottom panel.">
+<image mime-type="image/jpg" src="../../media/Figure_10_01_03.jpg" width="320"/>
 </media>
-<caption>Each linear chromosome in a eukaryotic cell is packaged into chromatin, a combination of DNA and proteins. The double-stranded DNA
-helix associates with the core histones to form nucleosomes. These nucleosomes are further organized into a 30 nm fiber by the linker histone, H1. The
-fiber then associates with additional proteins to form loops and higher-order heterochromatin packing. DNA packing reaches its most condensed state
-during metaphase in mitosis in preparation for chromosome separation. Chromatin packing is dynamic and undergoes reversible changes in response to
-changes in gene expression and the cell cycle. Credit: Rao, A., Ryan, K. Fletcher, S. Hawkins, A. and Tag, A. Department of Biology, Texas A&amp;M University.</caption></figure><para id="fs-id1466552"><emphasis effect="italics">DNA replicates in the S phase of interphase, which technically is not a part of mitosis, but must always precede it</emphasis>. After replication, the chromosomes are composed of two linked sister <term>chromatids</term>. When fully compact, the pairs of identically packed chromosomes are bound to each other by cohesin proteins. The connection between the sister chromatids is closest in a region called the <term>centromere</term>. The conjoined sister chromatids, with a diameter of about 1 µm, are visible under a light microscope. The centromeric region is highly condensed and thus will appear as a constricted area.</para>
+<caption>Double-stranded DNA wraps around histone proteins to form nucleosomes that create the appearance of “beads on a string.” The nucleosomes are coiled into a 30-nm chromatin fiber. When a cell undergoes mitosis, the chromosomes condense even further.</caption></figure><para id="fs-id1466552"><emphasis effect="italics">DNA replicates in the S phase of interphase, which technically is not a part of mitosis, but must always precede it</emphasis>. After replication, the chromosomes are composed of two linked sister <term>chromatids</term>. When fully compact, the pairs of identically packed chromosomes are bound to each other by cohesin proteins. The connection between the sister chromatids is closest in a region called the <term>centromere</term>. The conjoined sister chromatids, with a diameter of about 1 µm, are visible under a light microscope. The centromeric region is highly condensed and thus will appear as a constricted area.</para>
 
 <note id="fs-id2919212" class="interactive"><label/><title>Link to Learning</title>
 <para id="fs-id2338602">This animation illustrates the different levels of chromosome packing.</para>
@@ -127,8 +124,9 @@ changes in gene expression and the cell cycle. Credit: Rao, A., Ryan, K. Fletche
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
+<definition id="fs-id2216573"><term>cell cycle</term> <meaning id="fs-id1293714">ordered sequence of events through which a cell passes between one cell division and the next</meaning></definition>
 <definition id="fs-id1268735"><term>centromere</term> <meaning id="fs-id1626303">region at which sister chromatids are bound together; a constricted area in condensed chromosomes</meaning></definition>
 <definition id="fs-id2200988"><term>chromatid</term> <meaning id="fs-id1442893">single DNA molecule of two strands of duplicated DNA and associated proteins held together at the centromere</meaning></definition>
 <definition id="fs-id1512007"><term>diploid</term> <meaning id="fs-id1626422">cell, nucleus, or organism containing two sets of chromosomes (2<emphasis effect="italics">n</emphasis>)</meaning></definition>

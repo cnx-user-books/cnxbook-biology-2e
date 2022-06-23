@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66466</md:content-id>
   <md:title>Glycolysis</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Describe the overall result in terms of molecules produced during the chemical breakdown of glucose by glycolysis</item>
 <item>Compare the output of glycolysis in terms of ATP molecules and NADH molecules produced</item>
 </list></md:abstract>
@@ -12,18 +13,7 @@
 </metadata>
 
 <content>
-<para id="fs-id1392597">As you have read, nearly all of the energy used by living cells comes to them in the bonds of the sugar glucose. <term>Glycolysis</term> is the first step in the breakdown of glucose to extract energy for cellular metabolism. In fact, nearly all living organisms carry out glycolysis as part of their metabolism. The process does not use oxygen directly and therefore is termed <term>anaerobic</term>. Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells. Glucose enters heterotrophic cells in two ways. One method is through secondary active transport in which the transport takes place against the glucose concentration gradient. The other mechanism uses a group of integral proteins called <term>GLUT proteins</term>, also known as glucose transporter proteins. These transporters assist in the facilitated diffusion of glucose.</para>
-<para id="fs-id2054513">Glycolysis begins with the six-carbon ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon sugar called <term>pyruvate</term>. Glycolysis consists of two distinct phases. The first part of the glycolysis pathway traps the glucose molecule in the cell and uses energy to modify it so that the six-carbon sugar molecule can be split evenly into the two three-carbon molecules. The second part of glycolysis extracts energy from the molecules and stores it in the form of ATP and NADH—remember: this is the reduced form of NAD.</para>
-<figure id="fs-idm386116640">
-  <media id="fs-idm1701566288" alt="The illustration shows a simplified process of glucose moving through the stages of glycolysis. First two A T P are added, then the glucose is split into two branches, with N A D H and two A T P being released.  The net products are 2 pyruvate molecules and 2 N A D H and 2 A T P molecules. ">
-    <image mime-type="image/jpeg" src="../../media/Figure_07_02_00.png"/>
-  </media>
-<caption>Glycolysis begins with an energy investment phase which requires 2 ATP to phosphorylate the starting glucose
-molecule. The 6-carbon intermediate is then split into 2, 3-carbon sugar molecules. In the energy recovery phase, each 3-carbon sugar is
-then oxidized to pyruvate with the energy transferred to form NADH and 2 ATP. Credit: Rao, A. and Ryan, K. Department of Biology,
-Texas A&amp;M University</caption>
-</figure>
-
+<para id="fs-id1392597">As you have read, nearly all of the energy used by living cells comes to them in the bonds of the sugar glucose. <term>Glycolysis</term> is the first step in the breakdown of glucose to extract energy for cellular metabolism. In fact, nearly all living organisms carry out glycolysis as part of their metabolism. The process does not use oxygen directly and therefore is termed <term>anaerobic</term>. Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells. Glucose enters heterotrophic cells in two ways. One method is through secondary active transport in which the transport takes place against the glucose concentration gradient. The other mechanism uses a group of integral proteins called <term>GLUT proteins</term>, also known as glucose transporter proteins. These transporters assist in the facilitated diffusion of glucose.</para><para id="fs-id2054513">Glycolysis begins with the six-carbon ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon sugar called <term>pyruvate</term>. Glycolysis consists of two distinct phases. The first part of the glycolysis pathway traps the glucose molecule in the cell and uses energy to modify it so that the six-carbon sugar molecule can be split evenly into the two three-carbon molecules. The second part of glycolysis extracts energy from the molecules and stores it in the form of ATP and NADH—remember: this is the reduced form of NAD.</para>
 <section id="fs-id2221367">
 <title>First Half of Glycolysis (Energy-Requiring Steps)</title>
     <para id="fs-id2883758"><emphasis effect="bold">Step 1</emphasis>. The first step in glycolysis (<link target-id="fig-ch07_02_01" document=""/>) is catalyzed by hexokinase, an enzyme with broad specificity that catalyzes the phosphorylation of six-carbon sugars. Hexokinase phosphorylates glucose using ATP as the source of the phosphate, producing glucose-6-phosphate, a more reactive form of glucose. This reaction prevents the phosphorylated glucose molecule from continuing to interact with the GLUT proteins, and it can no longer leave the cell because the negatively charged phosphate will not allow it to cross the hydrophobic interior of the plasma membrane.</para>
@@ -88,7 +78,7 @@ Texas A&amp;M University</caption>
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1812636"><term>aerobic respiration</term> <meaning id="fs-id1367144">process in which organisms convert energy in the presence of oxygen</meaning></definition>
 <definition id="fs-id1313248"><term>anaerobic</term> <meaning id="fs-id2310493">process that does not use oxygen</meaning></definition>

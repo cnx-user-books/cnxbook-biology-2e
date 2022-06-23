@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66471</md:content-id>
   <md:title>Regulation of Cellular Respiration</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe how feedback inhibition would affect the production of an intermediate or product in a pathway</item>
 <item>Identify the mechanism that controls the rate of the transport of electrons through the electron transport chain</item>
@@ -38,21 +38,21 @@
 <title>Electron Transport Chain</title>
 <para id="fs-id2317654">Specific enzymes of the electron transport chain are unaffected by feedback inhibition, but the rate of electron transport through the pathway is affected by the levels of ADP and ATP. Greater ATP consumption by a cell is indicated by a buildup of ADP. As ATP usage decreases, the concentration of ADP decreases, and now, ATP begins to build up in the cell. This change in the relative concentration of ADP to ATP triggers the cell to slow down the electron transport chain.</para><note id="fs-id2121507" class="interactive"><label/><title>Link to Learning</title>
 <para id="fs-id2054751">Visit this <link window="new" url="http://openstax.org/l/electron_transp">site</link> to see an animation of the electron transport chain and ATP synthesis.</para>
-</note><para id="fs-id2183864"> For a summary of feedback controls in cellular respiration, see  <link target-id="tab-ch07_07_01" document=""/>.</para>
-    <table id="tab-ch07_07_01" summary="table x.x" class="top-titled">
+</note><para id="fs-id2183864"> For a summary of feedback controls in cellular respiration, see  <link target-id="tab-ch07_07_01" document=""/>.</para> 
+    <table id="tab-ch07_07_01" summary="table x.x">
 <tgroup cols="4"><colspec colnum="1" colname="col1"/>
             <colspec colnum="2" colname="col2"/>
             <colspec colnum="3" colname="col3"/>
             <colspec colnum="4" colname="col4"/>
             <thead>
                 <row>
-                    <entry namest="col1" nameend="col4" align="left">Summary of Feedback Controls in Cellular Respiration</entry>
+                    <entry namest="col1" nameend="col4" align="left">Summary of Feedback Controls in Cellular Respiration</entry> 
                 </row>
                 <row>
                     <entry>Pathway</entry>
                     <entry>Enzyme affected</entry>
                     <entry>Elevated levels of effector</entry>
-                    <entry>Effect on pathway activity</entry>
+                    <entry>Effect on pathway activity</entry>                    
                 </row>
             </thead>
     <tbody>
@@ -84,7 +84,7 @@
             <entry/>
             <entry>high-energy charge (ATP, AMP), alanine</entry>
             <entry>decrease</entry></row>
-<row><entry>pyruvate to acetyl CoA conversion</entry>
+<row><entry>pyruvate to acetyl CoA conversion</entry> 
     <entry>pyruvate dehydrogenase</entry>
     <entry>ADP, pyruvate</entry>
     <entry>increase</entry></row>
@@ -126,7 +126,7 @@
     <entry>ATP</entry>
     <entry>decrease</entry></row>
     </tbody>
-
+        
 </tgroup>
 </table></section>
 </section>
@@ -177,7 +177,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1485699"><term>GLUT protein</term> <meaning id="fs-id1444449">integral membrane protein that transports glucose</meaning></definition>
 </glossary>
