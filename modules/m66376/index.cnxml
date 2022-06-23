@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66376</md:content-id>
   <md:title>Bulk Transport</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Describe endocytosis, including phagocytosis, pinocytosis, and receptor-mediated endocytosis</item>
 <item>Understand the process of exocytosis</item>
 </list></md:abstract>
@@ -31,7 +32,8 @@
 <image mime-type="image/png" src="../../media/Figure_05_04_02.png" width="320"/>
 </media>
 
-<caption>In pinocytosis, the cell membrane invaginates, surrounds a small volume of fluid, and pinches off. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1511146">A variation of pinocytosis is <term>potocytosis</term>. This process uses a coating protein, <term>caveolin</term>, on the plasma membrane's cytoplasmic side, which performs a similar function to clathrin. The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. The vacuoles or vesicles formed in caveolae (singular caveola) are smaller than those in pinocytosis. Potocytosis brings small molecules into the cell and transports them through the cell for their release on the other side, a process we call transcytosis. In some cases, the caveolae deliver their cargo to membranous organelles like the ER.</para></section>
+<caption>In pinocytosis, the cell membrane invaginates, surrounds a small volume of fluid, and pinches off. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1511146">A variation of pinocytosis is <term>potocytosis</term>. This process uses a coating protein, <term>caveolin</term>, on the plasma membrane's cytoplasmic side, which performs a similar function to clathrin. The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. The vacuoles or vesicles formed in caveolae (singular caveola) are smaller than those in pinocytosis. Potocytosis brings small molecules into the cell and transports them through the cell for their release on the other side, a process we call transcytosis.</para>
+</section>
 <section id="fs-id2059707">
 <title>Receptor-mediated Endocytosis</title>
 <para id="fs-id2163521">A targeted variation of endocytosis employs receptor proteins in the plasma membrane that have a specific binding affinity for certain substances (<link target-id="fig-ch05_04_03" document=""/>).</para>
@@ -54,7 +56,7 @@
 <image mime-type="image/png" src="../../media/Figure_05_04_04.png" width="380"/>
 </media>
 
-<caption>In exocytosis, vesicles containing substances fuse with the plasma membrane. The contents then release to the cell's exterior. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><table id="tab-ch05_04_01" summary="This table provides a list of types of molecular transport in cells, whether the method is passive or active, and the types of materials transported for each." class="top-titled">
+<caption>In exocytosis, vesicles containing substances fuse with the plasma membrane. The contents then release to the cell's exterior. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><table id="tab-ch05_04_01" summary="This table provides a list of types of molecular transport in cells, whether the method is passive or active, and the types of materials transported for each.">
 <tgroup cols="3"><colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
 <colspec colnum="3" colname="col3"/>
@@ -179,7 +181,7 @@
 <para id="fs-id1805576">Ions are charged, and consequently, they are hydrophilic and cannot associate with the lipid portion of the membrane. Ions must be transported by carrier proteins or ion channels.</para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1769825"><term>caveolin</term> <meaning id="fs-id2258545">protein that coats the plasma membrane's cytoplasmic side and participates in the liquid uptake process by potocytosis</meaning></definition>
 <definition id="fs-id1704998"><term>clathrin</term> <meaning id="fs-id2491646">protein that coats the plasma membrane's inward-facing surface and assists in forming specialized structures, like coated pits, for phagocytosis</meaning></definition>

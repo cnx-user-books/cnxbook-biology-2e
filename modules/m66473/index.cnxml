@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66473</md:content-id>
   <md:title>Overview of Photosynthesis</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Explain the significance of photosynthesis to other living organisms</item>
 <item>Describe the main structures involved in photosynthesis</item>
 <item>Identify the substrates and products of photosynthesis</item>
@@ -26,7 +27,7 @@
 
 <caption>The energy stored in carbohydrate molecules from photosynthesis passes through the food chain. The predator that eats these deer receives a portion of the energy that originated in the photosynthetic vegetation that the deer consumed. (credit: modification of work by Steve VanRiper, U.S. Fish and Wildlife Service)</caption></figure><section id="fs-idp42926384">
 <title>Main Structures and Summary of Photosynthesis</title>
-<para id="fs-idm107168592">Photosynthesis is a multi-step process that requires specific wavelengths of visible sunlight, carbon dioxide (which is low in energy), and water as substrates (<link target-id="fig-ch08_01_03" document=""/>). After the process is complete, it releases oxygen and produces glyceraldehyde-3-phosphate (G3P), as well as simple carbohydrate molecules (high in energy) that can then be converted into glucose, sucrose, or any of dozens of other sugar molecules. These sugar molecules contain energy and the energized carbon that all living things need to survive.</para>
+<para id="fs-idm107168592">Photosynthesis is a multi-step process that requires specific wavelengths of visible sunlight, carbon dioxide (which is low in energy), and water as substrates (<link target-id="fig-ch08_01_03" document=""/>). After the process is complete, it releases oxygen and produces glyceraldehyde-3-phosphate (GA3P), as well as simple carbohydrate molecules (high in energy) that can then be converted into glucose, sucrose, or any of dozens of other sugar molecules. These sugar molecules contain energy and the energized carbon that all living things need to survive.</para>
 <figure id="fig-ch08_01_03"><media id="fs-idm19845344" alt="Photo of a tree with labels shows photosynthesis. Arrows indicate that the tree uses carbon dioxide, water, and sunlight to make sugars and oxygen.  Water is absorbed through the tree's roots; sunlight is absorbed through the tree's leaves; the tree also absorbs carbon dioxide, and releases oxygen.">
 <image mime-type="image/jpg" src="../../media/Figure_08_01_03.jpg" width="270"/>
 </media>
@@ -36,7 +37,7 @@
 <media id="fs-idm107118720" alt="The photosynthesis equation is shown. According to this equation, six carbon dioxide and six water molecules produce one sugar molecule and six oxygen molecules. The sugar molecule is made of six carbons, twelve hydrogens, and six oxygens. Sunlight is used as an energy source.">
 <image mime-type="image/jpg" src="../../media/Figure_08_01_04.jpg" width="380"/>
 </media>
-<caption>The basic equation for photosynthesis is deceptively simple. In reality, the process takes place in many steps involving intermediate reactants and products. Glucose, the primary energy source in cells, is made from two three-carbon G3Ps.</caption>
+<caption>The basic equation for photosynthesis is deceptively simple. In reality, the process takes place in many steps involving intermediate reactants and products. Glucose, the primary energy source in cells, is made from two three-carbon GA3Ps.</caption>
 </figure>
 <para id="fs-idm83121488">Although the equation looks simple, the many steps that take place during photosynthesis are actually quite complex. Before learning the details of how photoautotrophs turn sunlight into food, it is important to become familiar with the structures involved.</para>
 </section>
@@ -56,7 +57,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_08_01_06.jpg" width="420"/>
 </media>
 
-<caption>Photosynthesis takes place in two stages: light-dependent reactions and the Calvin cycle. Light-dependent reactions, which take place in the thylakoid membrane, use light energy to make ATP and NADPH. The Calvin cycle, which takes place in the stroma, uses energy derived from these compounds to make G3P from CO<sub>2</sub>. Credit: Rao, A., Ryan, K., Fletcher, S., Hawkins, A. and Tag, A. Texas A&amp;M University.</caption></figure><note id="fs-idm105779792" class="interactive"><label/><title>Link to Learning</title>
+<caption>Photosynthesis takes place in two stages: light-dependent reactions and the Calvin cycle. Light-dependent reactions, which take place in the thylakoid membrane, use light energy to make ATP and NADPH. The Calvin cycle, which takes place in the stroma, uses energy derived from these compounds to make GA3P from CO<sub>2</sub>.</caption></figure><note id="fs-idm105779792" class="interactive"><label/><title>Link to Learning</title>
 <para id="fs-idm89266032">Click the <link window="new" url="http://openstax.org/l/photosynthesis">link</link> to learn more about photosynthesis.</para>
 </note><note id="fs-idp103890080" class="everyday"><label/><title>Everyday Connection</title>
 <para id="eip-id1164468595750"><title>Photosynthesis at the Grocery Store</title></para>
@@ -147,7 +148,7 @@
     Predict the end result if a chloroplast’s light-independent enzymes developed a mutation that prevented them from activating in response to light.
   </para>
 <list id="eip-263" list-type="enumerated" number-style="lower-alpha">
-<item>G3P accumulation</item>
+<item>GA3P accumulation</item>
 <item>ATP and NADPH accumulation</item>
 <item>Water accumulation</item>
 <item>Carbon dioxide depletion</item>
@@ -162,7 +163,7 @@
 </solution>
 </exercise><exercise id="eip-336"><problem id="eip-787">
   <para id="eip-540">
-    How are the NADPH and G3P molecules made during photosynthesis similar?
+    How are the NADPH and GA3P molecules made during photosynthesis similar?
   </para>
 <list id="eip-264" list-type="enumerated" number-style="lower-alpha">
 <item>They are both end products of photosynthesis.</item>
@@ -231,7 +232,7 @@
   </para>
 </solution>
 </exercise></section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idm147514928">
 <term>chemoautotroph</term> <meaning id="fs-idm56843536">organism that can build organic molecules using energy derived from inorganic chemicals instead of sunlight</meaning>

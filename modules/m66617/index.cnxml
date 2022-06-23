@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66617</md:content-id>
   <md:title>Digestive System Processes</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Describe the process of digestion</item>
 <item>Detail the steps involved in digestion and absorption</item>
 <item>Define elimination</item>
@@ -28,7 +29,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_34_03_01.jpg" width="525"/>
 </media>
 
-<caption>Digestion of carbohydrates is performed by several enzymes. Starch and glycogen are broken down into glucose by amylase and maltase. Sucrose (table sugar) and lactose (milk sugar) are broken down by sucrase and lactase, respectively.</caption></figure><table id="tab-ch34_03_01" summary="" class="top-titled">
+<caption>Digestion of carbohydrates is performed by several enzymes. Starch and glycogen are broken down into glucose by amylase and maltase. Sucrose (table sugar) and lactose (milk sugar) are broken down by sucrase and lactase, respectively.</caption></figure><table id="tab-ch34_03_01" summary="">
 <tgroup cols="5" align="left">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -76,10 +77,10 @@
 <section id="fs-idp146534464"><title>Protein</title>
 <para id="fs-idm82191248">A large part of protein digestion takes place in the stomach. The enzyme pepsin plays an important role in the digestion of proteins by breaking down the intact protein to peptides, which are short chains of four to nine amino acids. In the duodenum, other enzymes—<term>trypsin</term>, <term>elastase</term>, and <term>chymotrypsin</term>—act on the peptides reducing them to smaller peptides. Trypsin elastase, carboxypeptidase, and chymotrypsin are produced by the pancreas and released into the duodenum where they act on the chyme. Further breakdown of peptides to single amino acids is aided by enzymes called peptidases (those that breakdown peptides). Specifically, <term>carboxypeptidase</term>, <term>dipeptidase</term>, and <term>aminopeptidase</term> play important roles in reducing the peptides to free amino acids. The amino acids are absorbed into the bloodstream through the small intestines. The steps in protein digestion are summarized in <link target-id="fig-ch34_03_02" document=""/> and <link target-id="tab-ch34_03_02" document=""/>.</para>
 <figure id="fig-ch34_03_02"><media id="fs-idm90855888" alt="Protein digestion begins in the stomach, where pepsin breaks proteins down into fragments, called peptides. Further digestion occurs in the small intestine, where a variety of enzymes break peptides down into smaller peptides, and then into individual amino acids. Several of the protein-digesting enzymes found in the small intestine are secreted from the pancreas. Amino acids are absorbed from the small intestine into the blood stream. The liver regulates the distribution of amino acids to the rest of the body. A small amount of dietary protein is lost in the feces.">
-<image mime-type="image/jpeg" src="../../media/Figure_B34_03_02.jpg" width="400"/>
+<image mime-type="image/png" src="../../media/Figure_B34_03_02.png" width="400"/>
 </media>
 
-<caption>Protein digestion is a multistep process that begins in the stomach and continues through the intestines.</caption></figure><table id="tab-ch34_03_02" summary="" class="top-titled">
+<caption>Protein digestion is a multistep process that begins in the stomach and continues through the intestines.</caption></figure><table id="tab-ch34_03_02" summary="">
 <tgroup cols="5" align="left">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -95,7 +96,7 @@
 <entry>Substrate Acting On</entry>
 <entry>End Products</entry>
 </row>
-</thead>
+</thead> 
 <tbody>
 <row>
 <entry>Pepsin</entry>

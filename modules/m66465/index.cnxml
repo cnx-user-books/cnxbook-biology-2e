@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66465</md:content-id>
   <md:title>Energy in Living Systems</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Discuss the importance of electrons in the transfer of energy in living systems</item>
 <item>Explain how ATP is used by cells as an energy source</item>
 </list></md:abstract>
@@ -12,17 +13,12 @@
 </metadata>
 
 <content>
-<para id="fs-id1894837">Energy production within a cell involves many coordinated chemical pathways. Most of these pathways are combinations of oxidation and reduction reactions, which occur at the same time. An oxidation reaction strips an electron from an atom in a compound, and the addition of this electron to another compound is a reduction reaction. Because oxidation and reduction usually occur together, these pairs of reactions are called oxidation reduction reactions, or <term>redox reactions</term>.</para>
-<figure id="fs-idm924187536"><media id="fs-idm921329440" alt="A progression of oxidation and reduction. The illustration shows that as methane loses electrons as it passes through oxidation processes, first becoming methanol, then formaldehyde, then formic acid, then carbon dioxide. The illustration shows that if the reverse occurred, and carbon dioxide progressed to methane, it would be adding electrons and going through reduction.">
-    <image mime-type="image/png" src="../../media/Figure_07_01_00.png"/>
-  </media>
-
-<caption>Stages of oxidation/reduction of a single carbon. Electrons are lost from carbon as methane is oxidized to carbon dioxide. The loss of electrons is also accompanied by the loss of energy. Electrons are gained during the reduction of carbon dioxide to methane. The gain of an electron is accompanied by a gain in potential energy and often by the addition of a proton (H<sup>+</sup>). Credit: Ryan, K., Rao, A.and Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></figure><section id="fs-id1798739">
+<para id="fs-id1894837">Energy production within a cell involves many coordinated chemical pathways. Most of these pathways are combinations of oxidation and reduction reactions, which occur at the same time. An oxidation reaction strips an electron from an atom in a compound, and the addition of this electron to another compound is a reduction reaction. Because oxidation and reduction usually occur together, these pairs of reactions are called oxidation reduction reactions, or <term>redox reactions</term>.</para><section id="fs-id1798739">
 <title>Electrons and Energy</title>
-<para id="fs-id3112918">The removal of an electron from a molecule (oxidizing it), results in a decrease in potential energy in the oxidized compound. However, the electron (sometimes as part of a hydrogen atom) does not remain unbonded in the cytoplasm of a cell. Rather, the electron is shifted to a second compound, reducing the second compound. <emphasis effect="italics">The shift of an electron from one compound to another removes some potential energy from the first compound (the oxidized compound) and increases the potential energy of the second compound (the reduced compound).</emphasis> The transfer of electrons between molecules is important because most of the energy stored in atoms and used to fuel cell functions is in the form of high-energy electrons. The transfer of energy in the form of high-energy electrons allows the cell to transfer and use energy in an incremental fashion—in small packages rather than in a single, destructive burst. This chapter focuses on the extraction of energy from food; you will see that as you track the path of the transfers, you are tracking the path of electrons moving through metabolic pathways.</para><section id="fs-id2763612">
+<para id="fs-id3112918">The removal of an electron from a molecule (oxidizing it), results in a decrease in potential energy in the oxidized compound. The electron (sometimes as part of a hydrogen atom) does not remain unbonded, however, in the cytoplasm of a cell. Rather, the electron is shifted to a second compound, reducing the second compound. <emphasis effect="italics">The shift of an electron from one compound to another removes some potential energy from the first compound (the oxidized compound) and increases the potential energy of the second compound (the reduced compound).</emphasis> The transfer of electrons between molecules is important because most of the energy stored in atoms and used to fuel cell functions is in the form of high-energy electrons. The transfer of energy in the form of high-energy electrons allows the cell to transfer and use energy in an incremental fashion—in small packages rather than in a single, destructive burst. This chapter focuses on the extraction of energy from food; you will see that as you track the path of the transfers, you are tracking the path of electrons moving through metabolic pathways.</para><section id="fs-id2763612">
 <title>Electron Carriers</title>
        <para id="fs-id1405882">In living systems, a small class of compounds functions as electron shuttles: they bind and carry high-energy electrons between compounds in biochemical pathways. The principal electron carriers we will consider are derived from the B vitamin group and are derivatives of nucleotides. These compounds can be easily reduced (that is, they accept electrons) or oxidized (they lose electrons). Nicotinamide adenine dinucleotide (NAD) (<link target-id="fig-ch07_01_01" document=""/>) is derived from vitamin B<sub>3</sub>, niacin. NAD<sup>+</sup> is the oxidized form of the molecule; NADH is the reduced form of the molecule after it has accepted two electrons and a proton (which together are the equivalent of a hydrogen atom with an extra electron). Note that if a compound has an “H” on it, it is generally reduced (e.g., NADH is the reduced form of NAD).</para><para id="fs-id1464730">NAD<sup>+</sup> can accept electrons from an organic molecule according to the general equation:</para>
-<equation id="eip-739" class="unnumbered"><m:math display="block">
+<equation id="eip-739"><m:math display="block">
  <m:mtable>
   <m:mtr>
    <m:mtd>
@@ -45,10 +41,10 @@
       </m:mtd>
      </m:mtr>
     </m:mtable>
-
+    
    </m:mtd>
   </m:mtr>
-
+  
  </m:mtable><m:mtext> + </m:mtext><m:mtable>
   <m:mtr>
    <m:mtd>
@@ -59,7 +55,7 @@
       </m:mrow>
       <m:mo>+</m:mo>
      </m:msup>
-
+     
     </m:mrow>
    </m:mtd>
   </m:mtr>
@@ -77,10 +73,10 @@
       </m:mtd>
      </m:mtr>
     </m:mtable>
-
+    
    </m:mtd>
   </m:mtr>
-
+  
  </m:mtable><m:mo stretchy="false">→</m:mo><m:mtext> </m:mtext><m:mtable>
   <m:mtr>
    <m:mtd>
@@ -96,7 +92,7 @@
     </m:mrow>
    </m:mtd>
   </m:mtr>
-
+  
  </m:mtable><m:mtext> +</m:mtext><m:mtable>
   <m:mtr>
    <m:mtd>
@@ -110,7 +106,7 @@
     </m:mrow>
    </m:mtd>
   </m:mtr>
-
+  
  </m:mtable>
 </m:math>
 </equation><para id="fs-id2073095">When electrons are added to a compound, <emphasis effect="italics">it is reduced</emphasis>. A compound that reduces another is called a reducing agent. In the above equation, RH is a reducing agent, and NAD<sup>+</sup> is reduced to NADH. When electrons are removed from a compound, <emphasis effect="italics">it is oxidized</emphasis>. A compound that oxidizes another is called an oxidizing agent. In the above equation, NAD<sup>+</sup> is an oxidizing agent, and RH is oxidized to R.</para>
@@ -140,12 +136,12 @@
 <section id="fs-id1560590">
 <title>Phosphorylation</title>
 <para id="fs-id2348311">Recall that, in some chemical reactions, enzymes may bind to several substrates that react with each other on the enzyme, forming an intermediate complex. An intermediate complex is a temporary structure, and it allows one of the substrates (such as ATP) and reactants to more readily react with each other; in reactions involving ATP, ATP is one of the substrates and ADP is a product. During an endergonic chemical reaction, ATP forms an intermediate complex with the substrate and enzyme in the reaction. This intermediate complex allows the ATP to transfer its third phosphate group, with its energy, to the substrate, a process called phosphorylation. <term>Phosphorylation</term> refers to the addition of the phosphate (~P). This is illustrated by the following generic reaction, in which A and B represent two different substrates:</para>
-<equation id="eip-458" class="unnumbered"><m:math display="block">
+<equation id="eip-458"><m:math display="block">
 <m:mrow>
 <m:mtext>A + enzyme + ATP</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext> </m:mtext><m:mrow><m:mo>[</m:mo> <m:mrow>
 <m:mtext>A </m:mtext><m:mo>−</m:mo><m:mtext> enzyme </m:mtext><m:mo>
 −</m:mo><m:mtext> </m:mtext><m:mo>∼</m:mo><m:mtext>P</m:mtext>
-</m:mrow>
+</m:mrow> 
 <m:mo>]</m:mo></m:mrow><m:mtext> </m:mtext><m:mo stretchy="false">→</m:mo><m:mtext> B + enzyme + ADP + phosphate ion</m:mtext>
 </m:mrow>
 </m:math></equation><para id="fs-id1786661">When the intermediate complex breaks apart, the energy is used to modify the substrate and convert it into a product of the reaction. The ADP molecule and a free phosphate ion are released into the medium and are available for recycling through cell metabolism.</para>
@@ -153,12 +149,10 @@
 <section id="fs-id2195071">
 <title>Substrate Phosphorylation</title>
 <para id="fs-id1451024">ATP is generated through two mechanisms during the breakdown of glucose. A few ATP molecules are generated (that is, regenerated from ADP) as a direct result of the chemical reactions that occur in the catabolic pathways. A phosphate group is removed from an intermediate reactant in the pathway, and the free energy of the reaction is used to add the third phosphate to an available ADP molecule, producing ATP (<link target-id="fig-ch07_01_03" document=""/>). This very direct method of phosphorylation is called <term>substrate-level phosphorylation</term>.</para>
-<figure id="fig-ch07_01_03"><media id="fs-id1414909" alt="This illustration shows a substrate-level phosphorylation reaction in which the gamma phosphate of A T P is attached to a protein. The substrate, phosphate group, and A D P bind to an enzyme. And the result is the product and A T P.">
+<figure id="fig-ch07_01_03"><media id="fs-id1414909" alt="This illustration shows a substrate-level phosphorylation reaction in which the gamma phosphate of A T P is attached to a protein.">
 <image mime-type="image/jpg" src="../../media/Figure_07_01_03.jpg" width="350"/>
 </media>
-<caption>In phosphorylation reactions, the gamma (third) phosphate of ATP is attached to a protein. In substrate-level phosphorylation, a
-phosphate group that is covalently attached to another molecule is transferred to ADP to form ATP. Credit: Rao, A., Ryan, K. and Fletcher, S. Department of
-Biology, Texas A&amp;M University.</caption></figure></section>
+<caption>In phosphorylation reactions, the gamma (third) phosphate of ATP is attached to a protein.</caption></figure></section>
 <section id="fs-id2019618">
 <title>Oxidative Phosphorylation</title>
        <para id="fs-id2065719">Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process, chemiosmosis, which takes place in mitochondria (<link target-id="fig-ch07_01_04" document=""/>) within a eukaryotic cell or the plasma membrane of a prokaryotic cell. <term>Chemiosmosis</term>, a process of ATP production in cellular metabolism, is used to generate 90 percent of the ATP made during glucose catabolism and is also the method used in the light reactions of photosynthesis to harness the energy of sunlight. The production of ATP using the process of chemiosmosis is called <term>oxidative phosphorylation</term> because of the involvement of oxygen in the process.</para>
@@ -212,7 +206,7 @@ Biology, Texas A&amp;M University.</caption></figure></section>
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1957966"><term>chemiosmosis</term> <meaning id="fs-id2148481">process in which there is a production of adenosine triphosphate (ATP) in cellular metabolism by the involvement of a proton gradient across a membrane</meaning></definition>
 <definition id="fs-id2567941"><term>dephosphorylation</term> <meaning id="fs-id2020665">removal of a phosphate group from a molecule</meaning></definition>

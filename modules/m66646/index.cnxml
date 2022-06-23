@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66646</md:content-id>
   <md:title>Gas Exchange across Respiratory Surfaces</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
 <item>Name and describe lung volumes and capacities</item>
 <item>Understand how gas pressure influences how gases move into and out of the body</item>
 </list></md:abstract>
@@ -22,7 +23,7 @@
 <figure id="fig-ch39_02_01" class=" "><media id="fs-idp114938608" alt="The chart shows the exchange of air during inhalation and exhalation, which resembles a wave pattern. During normal breathing, only about eight percent of air in the lungs is exchanged, and the amount of air in the lungs is one-half the total lung capacity. When a person breathes in deeply, total lung capacity is attained. The amount of air taken in is called the inspiratory capacity. Forceful exhalation results in expulsion of the expiratory reserve volume. A residual volume of air of about eight percent is left in the lungs. The vital capacity is the difference between the total lung capacity and the residual volume. The inspiratory reserve volume is the difference between the total lung capacity and the amount of air in the lungs after taking a normal breath. The functional residual capacity is the amount of air in the lungs after normal exhalation.">
 <image mime-type="image/jpg" src="../../media/Figure_39_02_01.jpg" width="550"/>
 </media>
-<caption>Human lung volumes and capacities are shown. The total lung capacity of the adult male is six liters. Tidal volume is the volume of air inhaled in a single, normal breath. Inspiratory capacity is the amount of air taken in during a deep breath, and residual volume is the amount of air left in the lungs after forceful respiration.</caption></figure><table id="tab-ch39_02_01" summary="This table displays lung volumes and capacities for average adult males." class="top-titled">
+<caption>Human lung volumes and capacities are shown. The total lung capacity of the adult male is six liters. Tidal volume is the volume of air inhaled in a single, normal breath. Inspiratory capacity is the amount of air taken in during a deep breath, and residual volume is the amount of air left in the lungs after forceful respiration.</caption></figure><table id="tab-ch39_02_01" summary="This table displays lung volumes and capacities for average adult males.">
 <tgroup cols="4" align="left"><colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
@@ -97,7 +98,7 @@
 </tgroup>
 </table><para id="fs-idm85935760">The volume in the lung can be divided into four units: tidal volume, expiratory reserve volume, inspiratory reserve volume, and residual volume. <term>Tidal volume (TV)</term> measures the amount of air that is inspired and expired during a normal breath. On average, this volume is around one-half liter, which is a little less than the capacity of a 20-ounce drink bottle. The <term>expiratory reserve volume (ERV)</term> is the additional amount of air that can be exhaled after a normal exhalation. It is the reserve amount that can be exhaled beyond what is normal. Conversely, the <term>inspiratory reserve volume (IRV)</term> is the additional amount of air that can be inhaled after a normal inhalation. The <term>residual volume (RV)</term> is the amount of air that is left after expiratory reserve volume is exhaled. The lungs are never completely empty: There is always some air left in the lungs after a maximal exhalation. If this residual volume did not exist and the lungs emptied completely, the lung tissues would stick together and the energy necessary to reinflate the lung could be too great to overcome. Therefore, there is always some air remaining in the lungs. Residual volume is also important for preventing large fluctuations in respiratory gases (O<sub>2</sub> and CO<sub>2</sub>). The residual volume is the only lung volume that cannot be measured directly because it is impossible to completely empty the lung of air. This volume can only be calculated rather than measured.</para>
 <para id="fs-idm55585824">Capacities are measurements of two or more volumes. The <term>vital capacity (VC)</term> measures the maximum amount of air that can be inhaled or exhaled during a respiratory cycle. It is the sum of the expiratory reserve volume, tidal volume, and inspiratory reserve volume. The <term>inspiratory capacity (IC)</term> is the amount of air that can be inhaled after the end of a normal expiration. It is, therefore, the sum of the tidal volume and inspiratory reserve volume. The <term>functional residual capacity (FRC)</term> includes the expiratory reserve volume and the residual volume. The FRC measures the amount of additional air that can be exhaled after a normal exhalation. Lastly, the <term>total lung capacity (TLC)</term> is a measurement of the total amount of air that the lung can hold. It is the sum of the residual volume, expiratory reserve volume, tidal volume, and inspiratory reserve volume.</para>
-<para id="fs-idm4780688">Lung volumes are measured by a technique called <term>spirometry</term>. An important measurement taken during spirometry is the <term>forced expiratory volume (FEV)</term>, which measures how much air can be forced out of the lung over a specific period, usually one second (FEV1). In addition, the forced vital capacity (FVC), which is the total amount of air that can be forcibly exhaled, is measured. The ratio of these values (<term>FEV1/FVC ratio</term>) is used to diagnose lung diseases including asthma, emphysema, and fibrosis. If the FEV1/FVC ratio is high, the lungs are not compliant (meaning they are stiff and unable to bend properly), and the patient most likely has lung fibrosis. Patients exhale most of the lung volume very quickly. Conversely, when the FEV1/FVC ratio is low, there is resistance in the lung that is characteristic of asthma. In this instance, it is hard for the patient to get the air out of their lungs, and it takes a long time to reach the maximal exhalation volume. In either case, breathing is difficult and complications arise.</para>
+<para id="fs-idm4780688">Lung volumes are measured by a technique called <term>spirometry</term>. An important measurement taken during spirometry is the <term>forced expiratory volume (FEV)</term>, which measures how much air can be forced out of the lung over a specific period, usually one second (FEV1). In addition, the forced vital capacity (FVC), which is the total amount of air that can be forcibly exhaled, is measured. The ratio of these values (<term>FEV1/FVC ratio</term>) is used to diagnose lung diseases including asthma, emphysema, and fibrosis. If the FEV1/FVC ratio is high, the lungs are not compliant (meaning they are stiff and unable to bend properly), and the patient most likely has lung fibrosis. Patients exhale most of the lung volume very quickly. Conversely, when the FEV1/FVC ratio is low, there is resistance in the lung that is characteristic of asthma. In this instance, it is hard for the patient to get the air out of his or her lungs, and it takes a long time to reach the maximal exhalation volume. In either case, breathing is difficult and complications arise.</para>
 <note id="fs-idp122751440" class="career">
 <label/>
 <title>Career Connection</title>
@@ -108,7 +109,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 <title>Gas Pressure and Respiration</title>
 <para id="fs-idm106442976">The respiratory process can be better understood by examining the properties of gases. Gases move freely, but gas particles are constantly hitting the walls of their vessel, thereby producing gas pressure.</para>
 <para id="fs-idp8446256">Air is a mixture of gases, primarily nitrogen (N<sub>2</sub>; 78.6 percent), oxygen (O<sub>2</sub>; 20.9 percent), water vapor (H<sub>2</sub>O; 0.5 percent), and carbon dioxide (CO<sub>2</sub>; 0.04 percent). Each gas component of that mixture exerts a pressure. The pressure for an individual gas in the mixture is the partial pressure of that gas. Approximately 21 percent of atmospheric gas is oxygen. Carbon dioxide, however, is found in relatively small amounts, 0.04 percent. The partial pressure for oxygen is much greater than that of carbon dioxide. The partial pressure of any gas can be calculated by:</para>
-<equation id="eip-484" class="unnumbered"><m:math display="block">
+<equation id="eip-484"><m:math display="block">
 <m:mrow>
 <m:msub>
 <m:mrow>
@@ -120,7 +121,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 </m:msub>
 <m:mtext>) </m:mtext><m:mo>×</m:mo><m:mtext> (percent content in mixture)</m:mtext><m:mtext>.</m:mtext>
 </m:mrow>
-</m:math></equation><para id="fs-idm88112688">P<sub>atm</sub>, the atmospheric pressure, is the sum of all of the partial pressures of the atmospheric gases added together,</para><equation id="eip-592" class="unnumbered"><m:math display="left">
+</m:math></equation><para id="fs-idm88112688">P<sub>atm</sub>, the atmospheric pressure, is the sum of all of the partial pressures of the atmospheric gases added together,</para><equation id="eip-592"><m:math display="left">
 <m:mrow>
 <m:msub>
 <m:mtext>P</m:mtext>
@@ -178,7 +179,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 <m:mtext>= 760 mm Hg</m:mtext>
 </m:mrow>
 </m:math></equation><para id="fs-idm60158096">× (percent content in mixture).</para><para id="fs-idp60460976">The pressure of the atmosphere at sea level is 760 mm Hg. Therefore, the partial pressure of oxygen is:</para>
-<equation id="eip-791" class="unnumbered"><m:math display="left">
+<equation id="eip-791"><m:math display="left">
 <m:mrow>
 <m:msub>
 <m:mtext>P</m:mtext>
@@ -192,7 +193,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 <m:mtext>= (760 mm Hg) (0</m:mtext><m:mtext>.21) = 160 mm Hg</m:mtext>
 </m:mrow>
 </m:math></equation><para id="fs-idp97958096">and for carbon dioxide:</para>
-<equation id="eip-755" class="unnumbered"><m:math display="left">
+<equation id="eip-755"><m:math display="left">
 <m:mrow>
 <m:msub>
 <m:mtext>P</m:mtext>
@@ -209,12 +210,12 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 </m:mrow>
 </m:math></equation><para id="fs-idp16386288">At high altitudes, P<sub>atm</sub> decreases but concentration does not change; the partial pressure decrease is due to the reduction in P<sub>atm</sub>.</para>
 <para id="fs-idp32276400">When the air mixture reaches the lung, it has been humidified. The pressure of the water vapor in the lung does not change the pressure of the air, but it must be included in the partial pressure equation. For this calculation, the water pressure (47 mm Hg) is subtracted from the atmospheric pressure:</para>
-<equation id="eip-3" class="unnumbered"><m:math display="block">
+<equation id="eip-3"><m:math display="block">
 <m:mrow>
 <m:mtext>760 mm Hg </m:mtext><m:mo>−</m:mo><m:mtext> 47 mm Hg </m:mtext><m:mo>=</m:mo><m:mtext>  713 mm Hg</m:mtext>
 </m:mrow>
 </m:math></equation><para id="fs-idp103442576">and the partial pressure of oxygen is:</para>
-<equation id="eip-339" class="unnumbered"><m:math display="block">
+<equation id="eip-339"><m:math display="block">
 <m:mrow>
 <m:mtext>(760 mm Hg </m:mtext><m:mo>−</m:mo><m:mtext> 47 mm Hg) </m:mtext><m:mo>×</m:mo><m:mtext> 0</m:mtext><m:mtext>.21 </m:mtext><m:mo>=</m:mo><m:mtext> 150 mm Hg</m:mtext><m:mtext>.</m:mtext>
 </m:mrow>
@@ -234,7 +235,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 </m:msub>
 </m:mrow>
 </m:math>
-</term>. Above, the partial pressure of oxygen in the lungs was calculated to be 150 mm Hg. However, lungs never fully deflate with an exhalation; therefore, the inspired air mixes with this residual air and lowers the partial pressure of oxygen within the alveoli. This means that there is a lower concentration of oxygen in the lungs than is found in the air outside the body. Knowing the RQ, the partial pressure of oxygen in the alveoli can be calculated:</para><equation id="eip-210" class="unnumbered"><m:math display="left">
+</term>. Above, the partial pressure of oxygen in the lungs was calculated to be 150 mm Hg. However, lungs never fully deflate with an exhalation; therefore, the inspired air mixes with this residual air and lowers the partial pressure of oxygen within the alveoli. This means that there is a lower concentration of oxygen in the lungs than is found in the air outside the body. Knowing the RQ, the partial pressure of oxygen in the alveoli can be calculated:</para><equation id="eip-210"><m:math display="left">
 <m:mrow>
 <m:msub>
 <m:mrow>
@@ -242,7 +243,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 </m:mrow>
 <m:mrow>
 <m:msub>
-<m:mtext>CO</m:mtext>
+<m:mtext>O</m:mtext>
 <m:mtext>2</m:mtext>
 </m:msub>
 </m:mrow>
@@ -305,7 +306,7 @@ in the alveoli of 40 mm Hg, the alveolar <m:math display="left">
 </m:msub>
 </m:mrow>
 </m:math>
-is equal to:</para><equation id="eip-632" class="unnumbered"><m:math display="left">
+is equal to:</para><equation id="eip-632"><m:math display="left">
 <m:mrow>
 <m:msub>
 <m:mrow>
@@ -750,7 +751,7 @@ than blood <m:math display="left">
 </m:math> at high elevations is lower than at sea level because the total atmospheric pressure is less than atmospheric pressure at sea level.</para></solution>
 </exercise>
 <exercise id="fs-idp77276032">
-<problem id="fs-idm26106832"><para id="fs-idp89275952">If a patient has increased resistance in their lungs, how can this be detected by a doctor? What does this mean?</para></problem>
+<problem id="fs-idm26106832"><para id="fs-idp89275952">If a patient has increased resistance in his or her lungs, how can this be detected by a doctor? What does this mean?</para></problem>
 <solution id="fs-idm105928096"><label/>
 <para id="fs-idp36613856">A doctor can detect a restrictive disease using spirometry. By detecting the rate at which air can be expelled from the lung, a diagnosis of fibrosis or another restrictive disease can be made.</para>
 </solution>

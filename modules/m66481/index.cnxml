@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66481</md:content-id>
   <md:title>Prokaryotic Cell Division</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe the process of binary fission in prokaryotes</item>
 <item>Explain how FtsZ and tubulin proteins are examples of homology</item>
@@ -21,11 +21,11 @@
 <image mime-type="image/jpg" src="../../media/Figure_10_05_01.jpg" width="450"/>
 </media>
 <caption>These images show the steps of binary fission in prokaryotes. (credit: modification of work by “Mcstrother”/Wikimedia Commons)</caption></figure><note id="fs-id1511467" class="evolution span-all"><label/><title>Evolution Connection</title>
-<para id="fs-id838601"><title>Mitotic Spindle Apparatus</title>
-The precise timing and formation of the mitotic spindle is critical to the success of eukaryotic cell division. Prokaryotic cells, on the other hand, do not undergo karyokinesis and therefore have no need for a mitotic spindle. However, the FtsZ protein that plays such a vital role in prokaryotic cytokinesis is structurally and functionally very similar to tubulin, the building block of the microtubules which make up the mitotic spindle fibers that are necessary for eukaryotic nuclear division. FtsZ proteins can form filaments, rings, and other three-dimensional structures that resemble the way tubulin forms microtubules, centrioles, and various cytoskeletal components. In addition, both FtsZ and tubulin employ the same energy source, GTP (guanosine triphosphate), to rapidly assemble and disassemble complex structures.</para>
+<div id="zip-id1168702366697"><title>Mitotic Spindle Apparatus</title></div>
+<para id="fs-id838601">The precise timing and formation of the mitotic spindle is critical to the success of eukaryotic cell division. Prokaryotic cells, on the other hand, do not undergo karyokinesis and therefore have no need for a mitotic spindle. However, the FtsZ protein that plays such a vital role in prokaryotic cytokinesis is structurally and functionally very similar to tubulin, the building block of the microtubules which make up the mitotic spindle fibers that are necessary for eukaryotic nuclear division. FtsZ proteins can form filaments, rings, and other three-dimensional structures that resemble the way tubulin forms microtubules, centrioles, and various cytoskeletal components. In addition, both FtsZ and tubulin employ the same energy source, GTP (guanosine triphosphate), to rapidly assemble and disassemble complex structures.</para>
 <para id="fs-id1428511">FtsZ and tubulin are considered to be homologous structures derived from common evolutionary origins. In this example, FtsZ is the ancestor protein to tubulin (an evolutionarily derived protein). While both proteins are found in extant organisms, tubulin function has evolved and diversified tremendously since evolving from its FtsZ prokaryotic origin. A survey of mitotic assembly components found in present-day unicellular eukaryotes reveals crucial intermediary steps to the complex membrane-enclosed genomes of multicellular eukaryotes (<link target-id="tab-ch10_05_01" document=""/>).</para>
-    <table id="tab-ch10_05_01" class="top-titled" summary="This table compares the tools involved in cell division among various organisms.">
-    <tgroup cols="4">
+    <table id="tab-ch10_05_01" class="span-all" summary="This table compares the tools involved in cell division among various organisms.">    
+    <tgroup cols="4">   
         <colspec colnum="1" colname="col1"/>
         <colspec colnum="2" colname="col2"/>
         <colspec colnum="3" colname="col3"/>
@@ -34,7 +34,7 @@ The precise timing and formation of the mitotic spindle is critical to the succe
 <row><entry namest="col1" nameend="col4" align="left">Cell Division Apparatus among Various Organisms</entry></row>
 <row><entry/><entry>Structure of genetic material</entry><entry>Division of nuclear material</entry><entry>Separation of daughter cells</entry></row>
 </thead>
-<tbody>
+<tbody>        
 <row><entry>Prokaryotes</entry><entry>There is no nucleus. The single, circular chromosome exists in a region of cytoplasm called the nucleoid.</entry><entry>Occurs through binary fission. As the chromosome is replicated, the two copies move to opposite ends of the cell by an unknown mechanism.</entry><entry>FtsZ proteins assemble into a ring that pinches the cell in two.</entry></row>
 <row><entry>Some protists</entry><entry>Linear chromosomes exist in the nucleus.</entry><entry>Chromosomes attach to the nuclear envelope, which remains intact. The mitotic spindle passes through the envelope and elongates the cell. No centrioles exist.</entry><entry>Microfilaments form a cleavage furrow that pinches the cell in two.</entry></row>
 <row><entry>Other protists</entry><entry>Linear chromosomes wrapped around histones exist in the nucleus.</entry><entry>A mitotic spindle forms from the centrioles and passes through the nuclear membrane, which remains intact. Chromosomes attach to the mitotic spindle, which separates the chromosomes and elongates the cell.</entry><entry>Microfilaments form a cleavage furrow that pinches the cell in two.</entry></row>
@@ -91,7 +91,7 @@ The precise timing and formation of the mitotic spindle is critical to the succe
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1405656"><term>binary fission</term> <meaning id="fs-id1695658">prokaryotic cell division process</meaning></definition>
 <definition id="fs-id1417449"><term>FtsZ</term> <meaning id="fs-id1582545">tubulin-like protein component of the prokaryotic cytoskeleton that is important in prokaryotic cytokinesis (name origin: <emphasis effect="bold">F</emphasis>ilamenting <emphasis effect="bold">t</emphasis>emperature-<emphasis effect="bold">s</emphasis>ensitive mutant <emphasis effect="bold">Z</emphasis>)</meaning></definition>

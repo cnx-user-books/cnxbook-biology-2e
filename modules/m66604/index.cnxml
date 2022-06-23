@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m66604</md:content-id>
   <md:title>The Soil</md:title>
-  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+  <md:abstract>By the end of this section, you will be able to do the following:
 <list>
 <item>Describe how soils are formed</item>
 <item>Explain soil composition</item>
@@ -79,7 +79,7 @@
 <figure id="fig-ch31_02_04" class=" "><media id="fs-idp49908624" alt=" Photo shows a man standing next to a wall of soil in a pit that is as deep as he is tall.">
 <image mime-type="image/jpg" src="../../media/Figure_31_02_04.jpg" width="275"/>
 </media>
-<caption>This soil scientist is studying the horizons and composition of soil at a research site. (credit: USDA)</caption></figure><para id="fs-idp43896176">Many soil scientists work both in an office and in the field. According to the United States Department of Agriculture (USDA): “a soil scientist needs good observation skills to analyze and determine the characteristics of different types of soils. Soil types are complex and the geographical areas a soil scientist may survey are varied. Aerial photos or various satellite images are often used to research the areas. Computer skills and geographic information systems (GIS) help the scientist to analyze the multiple facets of geomorphology, topography, vegetation, and climate to discover the patterns left on the landscape.”<footnote id="fs-idp35213280">National Resources Conservation Service / United States Department of Agriculture. “Careers in Soil Science.” <link window="new" url="http://openstax.org/l/NRCS">http://openstax.org/l/NRCS</link></footnote> Soil scientists play a key role in understanding the soil’s past, analyzing present conditions, and making recommendations for future soil-related practices.</para></note></section>
+<caption>This soil scientist is studying the horizons and composition of soil at a research site. (credit: USDA)</caption></figure><para id="fs-idp43896176">Many soil scientists work both in an office and in the field. According to the United States Department of Agriculture (USDA): “a soil scientist needs good observation skills to analyze and determine the characteristics of different types of soils. Soil types are complex and the geographical areas a soil scientist may survey are varied. Aerial photos or various satellite images are often used to research the areas. Computer skills and geographic information systems (GIS) help the scientist to analyze the multiple facets of geomorphology, topography, vegetation, and climate to discover the patterns left on the landscape.”<sup><footnote id="fs-idp35213280">National Resources Conservation Service / United States Department of Agriculture. “Careers in Soil Science.” <link window="new" url="http://openstax.org/l/NRCS">http://openstax.org/l/NRCS</link></footnote></sup> Soil scientists play a key role in understanding the soil’s past, analyzing present conditions, and making recommendations for future soil-related practices.</para></note></section>
 <section id="fs-idm90623680" class="summary">
 <title>Section Summary</title><para id="fs-idm86249504">Plants obtain mineral nutrients from the soil. Soil is the outer loose layer that covers the surface of Earth. Soil quality depends on the chemical composition of the soil, the topography, the presence of living organisms, the climate, and time. Agricultural practice and history may also modify the characteristics and fertility of soil. Soil consists of four major components: 1) inorganic mineral matter, 2) organic matter, 3) water and air, and 4) living matter. The organic material of soil is made of humus, which improves soil structure and provides water and minerals. Soil inorganic material consists of rock slowly broken down into smaller particles that vary in size, such as sand, silt, and loam.</para>
 <para id="fs-idm107252672">Soil formation results from a combination of biological, physical, and chemical processes. Soil is not homogenous because its formation results in the production of layers called a soil profile. Factors that affect soil formation include: parent material, climate, topography, biological factors, and time. Soils are classified based on their horizons, soil particle size, and proportions. Most soils have four distinct horizons: O, A, B, and C.</para>
@@ -188,7 +188,7 @@
 <para id="fs-idp48263136">Topography affects water runoff, which strips away parent material and affects plant growth. Steeps soils are more prone to erosion and may be thinner than soils that are on level surfaces.</para>
 </solution>
 </exercise></section>
- </content>
+</content>
 <glossary>
 <definition id="fs-idm89696448">
 <term>A horizon</term> <meaning id="fs-idm67888016">consists of a mixture of organic material with inorganic products of weathering</meaning>
