@@ -35,7 +35,8 @@
 <para id="import-auto-id1164221149313"><emphasis effect="italics">Biology</emphasis> was one of the first textbooks published by OpenStax and has been used by hundreds of faculty and thousands of students since 2012. We mined our adopters’ extensive and helpful feedback to identify the most significant revision needs while maintaining the organization that many instructors had incorporated into their courses. Specific surveys, focus groups, and pre-revision reviews, as well as data from our OpenStax Tutor users, all aided in planning the revision.</para>
 <para id="import-auto-id1164201876325">The result is a book that thoroughly treats biology’s foundational concepts while adding current and meaningful coverage in specific areas. <emphasis effect="italics">Biology 2e</emphasis> retains its manageable scope and contains ample features to draw learners into the discipline.</para>
 <para id="import-auto-id1164185871638">Structurally, the textbook remains similar to the first edition, with no chapter reorganization and very targeted changes at the section level (mostly in biodiversity).</para>
-<list id="import-auto-id1164187852653" list-type="bulleted"><item><emphasis effect="bold">Unit 1: The Chemistry of Life.</emphasis> Our opening unit introduces students to the sciences, including the scientific method, bioethics, and the fundamental concepts of chemistry and physics that provide a framework within which learners comprehend biological processes.</item>
+<list id="import-auto-id1164187852653" list-type="bulleted">
+<item><emphasis effect="bold">Unit 1: The Chemistry of Life.</emphasis> Our opening unit introduces students to the sciences, including the scientific method and the fundamental concepts of chemistry and physics that provide a framework within which learners comprehend biological processes.</item>
 <item><emphasis effect="bold">Unit 2: The Cell.</emphasis> Students will gain solid understanding of the structures, functions, and processes of the most basic unit of life: the cell.</item>
 <item><emphasis effect="bold">Unit 3: Genetics.</emphasis> Our comprehensive genetics unit takes learners from the earliest experiments that revealed the basis of genetics through the intricacies of DNA to current applications in the emerging studies of biotechnology and genomics.</item>
 <item><emphasis effect="bold">Unit 4: Evolutionary Processes.</emphasis> The core concepts of evolution are discussed in this unit with examples illustrating evolutionary processes. Additionally, the evolutionary basis of biology reappears throughout the textbook in general discussion and is reinforced through special call-out features highlighting specific evolution-based topics.</item>
@@ -43,16 +44,18 @@
 <item><emphasis effect="bold">Unit 6: Plant Structure and Function.</emphasis> Our plant unit thoroughly covers the fundamental knowledge of plant life essential to an introductory biology course.</item>
 <item><emphasis effect="bold">Unit 7: Animal Structure and Function.</emphasis> An introduction to the form and function of the animal body is followed by chapters on specific body systems and processes. This unit touches on the biology of all organisms while maintaining an engaging focus on human anatomy and physiology that helps students connect to the topics.</item>
 <item><emphasis effect="bold">Unit 8: Ecology.</emphasis> Ecological concepts are broadly covered in this unit, with features highlighting localized, real-world issues of conservation and biodiversity.</item>
-</list></section>
+</list>
+</section>
 <section id="import-auto-id1164187914989">
 <title>Changes to the Second Edition</title>
 <para id="para002">OpenStax only undertakes second editions when significant modifications to the text are necessary. In the case of <emphasis effect="italics">Biology 2e</emphasis>, user feedback indicated that we needed to focus on a few key areas, which we have done in the following ways:</para>
 <list id="import-auto-id1164187855362" list-type="bulleted"><item><emphasis effect="bold">Content revisions for clarity, accuracy, and currency.</emphasis> The revision plan varied by chapter based on need. About twenty chapters were wholly revised with significant updates to conceptual coverage, research-informed data, and clearer language. In about fifteen other chapters, the revisions focused mostly on readability and clearer language with fewer conceptual and factual changes.</item>
 <item><emphasis effect="bold">Additional end-of-chapter questions.</emphasis> The authors added new assessments to nearly every chapter, including both review and critical thinking questions. The additions total over 350 new items.</item>
 <item><emphasis effect="bold">Art and illustrations.</emphasis> Under the guidance of the authors and expert scientific illustrators, especially those well versed in creating accessible art, the OpenStax team made changes to most of the art in <emphasis effect="italics">Biology</emphasis>. You will find examples in the section below. The revisions fall into the following categories:
-<list id="import-auto-id1164187855363" list-type="bulleted"><item>Revisions for accuracy</item>
+<list id="import-auto-id1164187855363" list-type="bulleted">
+<item>Revisions for accuracy</item>
 <item>Redesigns for greater understanding and impact</item>
-<item>Recoloring art for overall consistency and representation</item>
+<item>Recoloring art for overall consistency</item>
 </list></item>
 <item><emphasis effect="bold">Accessibility improvements.</emphasis> As with all OpenStax books, the first edition of <emphasis effect="italics">Biology</emphasis> was created with a focus on accessibility. We have emphasized and improved that approach in the second edition.
 <list id="import-auto-id1164187856353" list-type="bulleted">
@@ -84,7 +87,7 @@
 <image mime-type="image/jpeg" src="../../media/Figure_05_04_01-2.png" width="350"/>
 </media>
 <media id="eip-idm1070121680" alt=".">
-<image mime-type="image/jpeg" src="../../media/Figure_B36_04_02-2.png" width="350"/>
+<image mime-type="image/jpeg" src="../../media/Figure_B36_04_02-2.png" width="450"/>
 </media>
 </section></section>
 <section id="eip-462">
@@ -203,5 +206,5 @@ Leslie Zeman, University of Washington <newline/>
 Daniel Zurek, Pittsburg State University <newline/>
 Shobhana Natarajan, Alcon Laboratories, Inc. <newline/></para>
 </section>
- </content>
+</content>
 </document>
